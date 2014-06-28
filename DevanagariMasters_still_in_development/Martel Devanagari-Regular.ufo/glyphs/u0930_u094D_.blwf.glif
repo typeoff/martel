@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u0930_u094D.blwf" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-485" y="-253" type="line"/>
+      <point x="-304" y="-111" type="line"/>
+      <point x="-160" y="-256" type="line"/>
+      <point x="-112" y="-220" type="line"/>
+      <point x="-307" y="-31" type="line"/>
+      <point x="-556" y="-189" type="line"/>
+    </contour>
+    <contour>
+      <point x="-307" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>

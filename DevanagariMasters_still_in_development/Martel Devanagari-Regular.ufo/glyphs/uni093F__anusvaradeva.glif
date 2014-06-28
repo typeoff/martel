@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093F_anusvaradeva" format="1">
+  <advance width="307"/>
+  <outline>
+    <contour>
+      <point x="307" y="575" type="line"/>
+      <point x="307" y="590" type="line"/>
+      <point x="275" y="650" type="line"/>
+      <point x="172" y="650" type="line"/>
+      <point x="157" y="672"/>
+      <point x="128" y="738"/>
+      <point x="128" y="795" type="curve" smooth="yes"/>
+      <point x="128" y="878"/>
+      <point x="195" y="919"/>
+      <point x="280" y="919" type="curve" smooth="yes"/>
+      <point x="406" y="919"/>
+      <point x="553" y="804"/>
+      <point x="695" y="684" type="curve"/>
+      <point x="722" y="719" type="line"/>
+      <point x="587" y="840"/>
+      <point x="399" y="998"/>
+      <point x="244" y="998" type="curve" smooth="yes"/>
+      <point x="119" y="998"/>
+      <point x="34" y="932"/>
+      <point x="34" y="842" type="curve" smooth="yes"/>
+      <point x="34" y="773"/>
+      <point x="80" y="701"/>
+      <point x="117" y="650" type="curve"/>
+      <point x="-31" y="650" type="line"/>
+      <point x="-31" y="634" type="line"/>
+      <point x="0" y="575" type="line"/>
+      <point x="109" y="575" type="line"/>
+      <point x="109" y="-1" type="line"/>
+      <point x="182" y="-42" type="line"/>
+      <point x="198" y="-42" type="line"/>
+      <point x="198" y="575" type="line"/>
+    </contour>
+    <contour>
+      <point x="786" y="722" type="line"/>
+      <point x="862" y="801" type="line"/>
+      <point x="785" y="879" type="line"/>
+      <point x="708" y="800" type="line"/>
+    </contour>
+  </outline>
+</glyph>
