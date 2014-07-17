@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0917094D" format="1">
-  <advance width="278"/>
+  <advance width="274"/>
   <outline>
-    <contour>
-      <point x="-29" y="634" type="line"/>
-      <point x="-29" y="624" type="line"/>
-      <point x="-12" y="590" type="line"/>
-      <point x="297" y="590" type="line"/>
-      <point x="297" y="601" type="line"/>
-      <point x="278" y="634" type="line"/>
-    </contour>
     <contour>
       <point x="153" y="324" type="line"/>
       <point x="58" y="339" type="line"/>
@@ -26,6 +18,14 @@
       <point x="207" y="499"/>
       <point x="200" y="606" type="curve"/>
       <point x="153" y="612" type="line"/>
+    </contour>
+    <contour>
+      <point x="-29" y="634" type="line"/>
+      <point x="-29" y="624" type="line"/>
+      <point x="-12" y="590" type="line"/>
+      <point x="293" y="590" type="line"/>
+      <point x="293" y="601" type="line"/>
+      <point x="274" y="634" type="line"/>
     </contour>
   </outline>
 </glyph>

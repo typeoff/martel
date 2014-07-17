@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dddhadeva" format="1">
-  <advance width="600"/>
+  <advance width="551"/>
   <unicode hex="095C"/>
   <outline>
+    <component base="ddadeva"/>
+    <component base="nuktadeva" xOffset="431" yOffset="35"/>
+    <contour>
+      <point x="420" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="359" y="18" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

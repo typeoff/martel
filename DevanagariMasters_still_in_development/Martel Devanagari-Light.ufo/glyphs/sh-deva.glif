@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0936094D" format="1">
-  <advance width="447"/>
+  <advance width="442"/>
   <outline>
     <contour>
       <point x="160" y="634"/>
@@ -50,9 +50,9 @@
       <point x="-29" y="634" type="line"/>
       <point x="-29" y="624" type="line"/>
       <point x="-12" y="590" type="line"/>
-      <point x="466" y="590" type="line"/>
-      <point x="466" y="601" type="line"/>
-      <point x="447" y="634" type="line"/>
+      <point x="461" y="590" type="line"/>
+      <point x="461" y="601" type="line"/>
+      <point x="442" y="634" type="line"/>
     </contour>
   </outline>
 </glyph>

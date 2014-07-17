@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rashtrasign-deva" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
+    <contour>
+      <point x="-310" y="-83" type="line"/>
+      <point x="-162" y="-231" type="line"/>
+      <point x="-128" y="-205" type="line"/>
+      <point x="-307" y="-31" type="line"/>
+      <point x="-541" y="-179" type="line"/>
+      <point x="-496" y="-219" type="line"/>
+    </contour>
+    <contour>
+      <point x="-307" y="0" type="move" name="_bottom"/>
+    </contour>
   </outline>
 </glyph>
