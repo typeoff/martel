@@ -76,6 +76,8 @@
 	<string>ch_va-deva.glif</string>
 	<key>cha-deva</key>
 	<string>cha-deva.glif</string>
+	<key>cha-deva.001</key>
+	<string>cha-deva.001.glif</string>
 	<key>d-deva</key>
 	<string>d-deva.glif</string>
 	<key>d_ba-deva</key>
@@ -86,8 +88,8 @@
 	<string>d_da-deva.glif</string>
 	<key>d_dh_r_ya-deva</key>
 	<string>d_dh_r_ya-deva.glif</string>
-	<key>d_dha-deva</key>
-	<string>d_dha-deva.glif</string>
+	<key>d_dh_ra-deva</key>
+	<string>d_dh_ra-deva.glif</string>
 	<key>d_ga-deva</key>
 	<string>d_ga-deva.glif</string>
 	<key>d_gha-deva</key>

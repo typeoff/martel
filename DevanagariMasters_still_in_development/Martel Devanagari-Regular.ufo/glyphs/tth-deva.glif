@@ -3,6 +3,6 @@
   <advance width="612"/>
   <outline>
     <component base="tthadeva"/>
-    <component base="viramadeva" xOffset="430"/>
+    <component base="viramadeva" xOffset="441"/>
   </outline>
 </glyph>

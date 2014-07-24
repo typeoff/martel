@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhadeva" format="1">
+  <advance width="573"/>
+  <unicode hex="095D"/>
+  <outline>
+    <component base="ddhadeva"/>
+    <component base="nuktadeva" xOffset="446" yOffset="-3"/>
+  </outline>
+</glyph>
