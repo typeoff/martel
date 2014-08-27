@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-O
-);
 classes = (
 {
 automatic = 1;
@@ -50,7 +47,7 @@ value = toff;
 },
 {
 name = description;
-value = "Martel Devanagari\U2019s Devanagari glyphs were designed by Dan Reynolds. The Latin glyphs are based on those from the Merriweather fonts, designed by Eben Sorkin.";
+value = "Martel\U2019s Devanagari glyphs were designed by Dan Reynolds. The Latin glyphs are based on those from the Merriweather fonts\012designed by Eben Sorkin.";
 },
 {
 name = fsType;
@@ -59,10 +56,10 @@ value = (
 );
 }
 );
-date = "2014-08-26 15:21:24 +0000";
+date = "2014-08-27 15:11:09 +0000";
 designer = "Dan Reynolds";
 designerURL = "http://www.typeoff.de";
-familyName = "Martel Devanagari";
+familyName = "Martel";
 featurePrefixes = (
 {
 automatic = 1;
@@ -2582,10 +2579,10 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = O;
+lastChange = "2014-08-27 15:16:46 +0100";
 layers = (
 {
-layerId = "39185045-6A8C-415A-8312-7B8F11386A4C";
-name = Regular;
+background = {
 paths = (
 {
 closed = 1;
@@ -2602,6 +2599,48 @@ nodes = (
 "393 765 CURVE SMOOTH",
 "204 760 OFFCURVE",
 "49 616 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"386 38 CURVE SMOOTH",
+"236 38 OFFCURVE",
+"149 198 OFFCURVE",
+"149 368 CURVE SMOOTH",
+"149 585 OFFCURVE",
+"241 713 OFFCURVE",
+"384 713 CURVE SMOOTH",
+"533 713 OFFCURVE",
+"612 554 OFFCURVE",
+"612 384 CURVE SMOOTH",
+"612 167 OFFCURVE",
+"529 38 OFFCURVE"
+);
+}
+);
+};
+layerId = "39185045-6A8C-415A-8312-7B8F11386A4C";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"233 723 CURVE SMOOTH",
+"124 664 OFFCURVE",
+"44 536 OFFCURVE",
+"44 357 CURVE SMOOTH",
+"44 144 OFFCURVE",
+"172 -14 OFFCURVE",
+"371 -14 CURVE SMOOTH",
+"560 -14 OFFCURVE",
+"712 133 OFFCURVE",
+"718 385 CURVE SMOOTH",
+"722 602 OFFCURVE",
+"600 765 OFFCURVE",
+"404 765 CURVE SMOOTH",
+"354 765 OFFCURVE",
+"294 756 OFFCURVE"
 );
 },
 {
@@ -3255,16 +3294,63 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = Q;
+lastChange = "2014-08-27 15:18:23 +0100";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"233 723 CURVE SMOOTH",
+"124 664 OFFCURVE",
+"44 536 OFFCURVE",
+"44 357 CURVE SMOOTH",
+"44 144 OFFCURVE",
+"172 -14 OFFCURVE",
+"371 -14 CURVE SMOOTH",
+"560 -14 OFFCURVE",
+"712 133 OFFCURVE",
+"718 385 CURVE SMOOTH",
+"722 602 OFFCURVE",
+"600 765 OFFCURVE",
+"404 765 CURVE SMOOTH",
+"354 765 OFFCURVE",
+"294 756 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"386 38 CURVE SMOOTH",
+"236 38 OFFCURVE",
+"149 198 OFFCURVE",
+"149 368 CURVE SMOOTH",
+"149 585 OFFCURVE",
+"241 713 OFFCURVE",
+"384 713 CURVE SMOOTH",
+"533 713 OFFCURVE",
+"612 554 OFFCURVE",
+"612 384 CURVE SMOOTH",
+"612 167 OFFCURVE",
+"529 38 OFFCURVE"
+);
+}
+);
+};
 layerId = "39185045-6A8C-415A-8312-7B8F11386A4C";
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"44 367 CURVE SMOOTH",
-"40 146 OFFCURVE",
+"354 765 OFFCURVE",
+"294 756 OFFCURVE",
+"233 723 CURVE SMOOTH",
+"124 664 OFFCURVE",
+"44 536 OFFCURVE",
+"44 357 CURVE",
+"40 149 OFFCURVE",
 "172 -18 OFFCURVE",
 "378 -14 CURVE SMOOTH",
 "381 -14 OFFCURVE",
@@ -3286,28 +3372,26 @@ nodes = (
 "597 27 OFFCURVE",
 "714 166 OFFCURVE",
 "718 385 CURVE SMOOTH",
-"722 606 OFFCURVE",
-"596 771 OFFCURVE",
-"393 765 CURVE SMOOTH",
-"204 760 OFFCURVE",
-"49 616 OFFCURVE"
+"722 602 OFFCURVE",
+"600 765 OFFCURVE",
+"404 765 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"386 38 CURVE SMOOTH",
-"236 38 OFFCURVE",
-"149 198 OFFCURVE",
-"149 368 CURVE SMOOTH",
-"149 585 OFFCURVE",
-"241 713 OFFCURVE",
-"384 713 CURVE SMOOTH",
 "533 713 OFFCURVE",
 "612 554 OFFCURVE",
 "612 384 CURVE SMOOTH",
 "612 167 OFFCURVE",
-"529 38 OFFCURVE"
+"529 38 OFFCURVE",
+"386 38 CURVE SMOOTH",
+"236 38 OFFCURVE",
+"149 198 OFFCURVE",
+"149 368 CURVE",
+"149 585 OFFCURVE",
+"241 713 OFFCURVE",
+"384 713 CURVE"
 );
 }
 );
