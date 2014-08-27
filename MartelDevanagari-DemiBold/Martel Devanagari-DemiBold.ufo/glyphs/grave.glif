@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="432"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="323" y="681" type="line"/>
+      <point x="180" y="869" type="line"/>
+      <point x="108" y="796" type="line"/>
+      <point x="147" y="736"/>
+      <point x="244" y="679"/>
+      <point x="297" y="654" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

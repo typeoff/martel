@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0926094D" format="1">
+  <advance width="578"/>
+  <outline>
+    <contour>
+      <point x="767" y="-284" type="line"/>
+      <point x="635" y="-157"/>
+      <point x="488" y="-79"/>
+      <point x="420" y="-79" type="curve" smooth="yes"/>
+      <point x="376" y="-79"/>
+      <point x="349" y="-102"/>
+      <point x="349" y="-142" type="curve" smooth="yes"/>
+      <point x="349" y="-169"/>
+      <point x="365" y="-197"/>
+      <point x="384" y="-212" type="curve"/>
+      <point x="516" y="-172" type="line"/>
+      <point x="590" y="-194"/>
+      <point x="648" y="-226"/>
+      <point x="739" y="-308" type="curve"/>
+    </contour>
+    <component base="dadeva"/>
+  </outline>
+</glyph>

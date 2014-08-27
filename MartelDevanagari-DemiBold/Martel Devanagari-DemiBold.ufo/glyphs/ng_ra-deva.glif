@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0919094D0930" format="1">
+  <advance width="713"/>
+  <outline>
+    <contour>
+      <point x="291" y="-46" type="line"/>
+      <point x="435" y="-191" type="line"/>
+      <point x="483" y="-155" type="line"/>
+      <point x="288" y="34" type="line"/>
+      <point x="39" y="-124" type="line"/>
+      <point x="110" y="-188" type="line"/>
+    </contour>
+    <component base="ngadeva"/>
+  </outline>
+</glyph>
