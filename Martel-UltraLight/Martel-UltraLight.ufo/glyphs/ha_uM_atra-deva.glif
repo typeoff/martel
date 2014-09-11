@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hadeva_uvowelsigndeva" format="1">
+  <advance width="544"/>
+  <outline>
+    <component base="hadeva"/>
+    <component base="uvowelsigndeva" xOffset="504"/>
+    <contour>
+      <point x="103" y="-70" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="382" y="634" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

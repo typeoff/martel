@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="visargadeva" format="1">
+  <advance width="307"/>
+  <unicode hex="0903"/>
+  <outline>
+    <component base="anusvaradeva" xOffset="304" yOffset="-352"/>
+    <component base="anusvaradeva" xOffset="304" yOffset="-688"/>
+  </outline>
+</glyph>

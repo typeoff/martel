@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fadeva" format="1">
+  <advance width="787"/>
+  <unicode hex="095E"/>
+  <outline>
+    <component base="uni092B"/>
+    <component base="nuktadeva" xOffset="296" yOffset="198"/>
+    <contour>
+      <point x="399" y="634" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="399" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

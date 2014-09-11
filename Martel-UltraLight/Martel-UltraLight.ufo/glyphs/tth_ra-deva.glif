@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0920094D0930" format="1">
+  <advance width="548"/>
+  <outline>
+    <contour>
+      <point x="282" y="-48" type="line"/>
+      <point x="430" y="-196" type="line"/>
+      <point x="464" y="-170" type="line"/>
+      <point x="285" y="4" type="line"/>
+      <point x="51" y="-144" type="line"/>
+      <point x="96" y="-184" type="line"/>
+    </contour>
+    <component base="tthadeva"/>
+    <contour>
+      <point x="277" y="-218" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="282" y="-125" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="334" y="634" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

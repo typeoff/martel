@@ -907,7 +907,6 @@
 		<string>zerowidthnonjoiner</string>
 		<string>CR</string>
 		<string>DEL</string>
-		<string>.notdef</string>
 		<string>space.copy_one</string>
 		<string>cent</string>
 		<string>currency</string>
