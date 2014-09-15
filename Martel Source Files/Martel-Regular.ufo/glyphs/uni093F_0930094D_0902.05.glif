@@ -3,10 +3,10 @@
   <advance width="307"/>
   <outline>
     <contour>
+      <point x="864" y="845" type="line"/>
       <point x="934" y="774" type="line"/>
       <point x="1004" y="846" type="line"/>
       <point x="933" y="917" type="line"/>
-      <point x="864" y="845" type="line"/>
     </contour>
     <component base="uni093F0930094D.05"/>
   </outline>

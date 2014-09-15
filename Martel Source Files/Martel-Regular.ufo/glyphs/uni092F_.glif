@@ -46,14 +46,5 @@
       <point x="637" y="590" type="line"/>
       <point x="606" y="650" type="line"/>
     </contour>
-    <contour>
-      <point x="74" y="60" type="move" name="nukta"/>
-    </contour>
-    <contour>
-      <point x="485" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="484" y="650" type="move" name="top"/>
-    </contour>
   </outline>
 </glyph>
