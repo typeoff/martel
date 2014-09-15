@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hadeva_uuvowelsigndeva" format="1">
+  <advance width="573"/>
+  <outline>
+    <component base="hadeva"/>
+    <component base="uuvowelsigndeva" xOffset="524"/>
+    <contour>
+      <point x="405" y="650" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

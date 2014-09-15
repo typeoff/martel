@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0915094D0935" format="1">
+  <advance width="1216"/>
+  <outline>
+    <component base="uni0915094D"/>
+    <component base="vadeva" xOffset="590"/>
+    <contour>
+      <point x="208" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="1073" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1074" y="634" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

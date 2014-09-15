@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aivowelsigndeva_anusvaradeva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-133" y="799" type="line"/>
+      <point x="-55" y="721" type="line"/>
+      <point x="22" y="800" type="line"/>
+      <point x="-56" y="878" type="line"/>
+    </contour>
+    <component base="aivowelsigndeva"/>
+    <contour>
+      <point x="-153" y="650" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
