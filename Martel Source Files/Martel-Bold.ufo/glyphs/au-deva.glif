@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="au-deva" format="1">
+  <advance width="1182"/>
+  <unicode hex="0914"/>
+  <outline>
+	<component base="aa-deva"/>
+	<component base="aiMatra-deva" xOffset="1182"/>
+  </outline>
+</glyph>

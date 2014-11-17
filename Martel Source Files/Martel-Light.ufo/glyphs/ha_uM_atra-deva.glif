@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ha_uMatra-deva" format="1">
+  <advance width="544"/>
+  <outline>
+	<component base="ha-deva"/>
+	<component base="uMatra-deva" xOffset="504"/>
+	<contour>
+	  <point x="103" y="-70" type="move" name="nukta"/>
+	</contour>
+	<contour>
+	  <point x="382" y="634" type="move" name="top"/>
+	</contour>
+  </outline>
+</glyph>

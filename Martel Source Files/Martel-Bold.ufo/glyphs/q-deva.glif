@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q-deva" format="1">
+  <advance width="636"/>
+  <outline>
+	<contour>
+	  <point x="114" y="-56" type="line"/>
+	  <point x="226" y="-168" type="line"/>
+	  <point x="337" y="-56" type="line"/>
+	  <point x="226" y="55" type="line"/>
+	</contour>
+	<component base="k-deva"/>
+	<contour>
+	  <point x="226" y="120" type="move" name="nukta"/>
+	</contour>
+  </outline>
+</glyph>

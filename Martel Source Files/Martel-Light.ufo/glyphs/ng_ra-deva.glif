@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng_ra-deva" format="1">
+  <advance width="673"/>
+  <outline>
+	<contour>
+	  <point x="289" y="4" type="line"/>
+	  <point x="437" y="-144" type="line"/>
+	  <point x="471" y="-118" type="line"/>
+	  <point x="292" y="56" type="line"/>
+	  <point x="58" y="-92" type="line"/>
+	  <point x="103" y="-132" type="line"/>
+	</contour>
+	<component base="nga-deva"/>
+	<contour>
+	  <point x="277" y="-183" type="move" name="nukta"/>
+	</contour>
+	<contour>
+	  <point x="282" y="-90" type="move" name="bottom"/>
+	</contour>
+	<contour>
+	  <point x="400" y="634" type="move" name="top"/>
+	</contour>
+  </outline>
+</glyph>

@@ -2,7 +2,7 @@
 <glyph name="oMatra_anusvara-deva" format="1">
   <advance width="287"/>
   <outline>
-    <component base="ovowelsigndeva"/>
-    <component base="anusvaradeva" xOffset="374"/>
+	<component base="oMatra-deva"/>
+	<component base="anusvara-deva" xOffset="374"/>
   </outline>
 </glyph>

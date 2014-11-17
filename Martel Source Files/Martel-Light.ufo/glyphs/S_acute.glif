@@ -3,5 +3,7 @@
   <advance width="600"/>
   <unicode hex="015A"/>
   <outline>
+	<component base="S"/>
+	<component base="acute.cap"/>
   </outline>
 </glyph>

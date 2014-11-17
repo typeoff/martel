@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_ta-deva" format="1">
+  <advance width="631"/>
+  <outline>
+	<contour>
+	  <point x="-56" y="669" type="line"/>
+	  <point x="-56" y="647" type="line"/>
+	  <point x="-9" y="556" type="line"/>
+	  <point x="64" y="556" type="line"/>
+	  <point x="64" y="442" type="line" smooth="yes"/>
+	  <point x="64" y="408"/>
+	  <point x="86" y="372"/>
+	  <point x="117" y="340" type="curve"/>
+	  <point x="65" y="317"/>
+	  <point x="47" y="278"/>
+	  <point x="47" y="233" type="curve" smooth="yes"/>
+	  <point x="47" y="127"/>
+	  <point x="162" y="27"/>
+	  <point x="250" y="-39" type="curve"/>
+	  <point x="292" y="6" type="line"/>
+	  <point x="224" y="65"/>
+	  <point x="173" y="129"/>
+	  <point x="173" y="186" type="curve" smooth="yes"/>
+	  <point x="173" y="225"/>
+	  <point x="203" y="248"/>
+	  <point x="271" y="248" type="curve" smooth="yes"/>
+	  <point x="408" y="248" type="line"/>
+	  <point x="408" y="26" type="line"/>
+	  <point x="519" y="-37" type="line"/>
+	  <point x="541" y="-37" type="line"/>
+	  <point x="541" y="556" type="line"/>
+	  <point x="631" y="556" type="line"/>
+	  <point x="631" y="577" type="line"/>
+	  <point x="582" y="669" type="line"/>
+	</contour>
+	<contour>
+	  <point x="408" y="361" type="line"/>
+	  <point x="260" y="361" type="line" smooth="yes"/>
+	  <point x="224" y="361"/>
+	  <point x="198" y="380"/>
+	  <point x="198" y="419" type="curve" smooth="yes"/>
+	  <point x="198" y="556" type="line"/>
+	  <point x="408" y="556" type="line"/>
+	</contour>
+	<contour>
+	  <point x="72" y="-100" type="move" name="nukta"/>
+	</contour>
+	<contour>
+	  <point x="475" y="669" type="move" name="top"/>
+	</contour>
+	<contour>
+	  <point x="475" y="0" type="move" name="bottom"/>
+	</contour>
+  </outline>
+</glyph>

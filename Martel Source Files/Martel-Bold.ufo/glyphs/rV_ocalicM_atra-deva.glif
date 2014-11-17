@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rVocalicMatra-deva" format="1">
+  <advance width="0"/>
+  <unicode hex="0943"/>
+  <outline>
+	<contour>
+	  <point x="-217" y="52"/>
+	  <point x="-294" y="5"/>
+	  <point x="-296" y="-80" type="curve" smooth="yes"/>
+	  <point x="-296" y="-164"/>
+	  <point x="-181" y="-256"/>
+	  <point x="-89" y="-256" type="curve" smooth="yes"/>
+	  <point x="-56" y="-256"/>
+	  <point x="-1" y="-237"/>
+	  <point x="29" y="-220" type="curve"/>
+	  <point x="-25" y="-112" type="line"/>
+	  <point x="-55" y="-133"/>
+	  <point x="-105" y="-151"/>
+	  <point x="-145" y="-151" type="curve" smooth="yes"/>
+	  <point x="-195" y="-151"/>
+	  <point x="-230" y="-132"/>
+	  <point x="-230" y="-108" type="curve" smooth="yes"/>
+	  <point x="-229" y="-63"/>
+	  <point x="-153" y="-35"/>
+	  <point x="-34" y="-35" type="curve"/>
+	  <point x="-85" y="75" type="line"/>
+	</contour>
+	<contour>
+	  <point x="-153" y="0" type="move" name="_bottom"/>
+	</contour>
+  </outline>
+</glyph>

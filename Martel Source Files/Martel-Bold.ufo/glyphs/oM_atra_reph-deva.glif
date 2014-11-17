@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oMatra_reph-deva" format="1">
+  <advance width="313"/>
+  <outline>
+	<contour>
+	  <point x="272" y="899"/>
+	  <point x="331" y="867"/>
+	  <point x="355" y="846" type="curve"/>
+	  <point x="384" y="883" type="line"/>
+	  <point x="326" y="964"/>
+	  <point x="245" y="1018"/>
+	  <point x="167" y="1018" type="curve" smooth="yes"/>
+	  <point x="117" y="1018"/>
+	  <point x="58" y="985"/>
+	  <point x="39" y="918" type="curve"/>
+	  <point x="-2" y="970"/>
+	  <point x="-49" y="1003"/>
+	  <point x="-107" y="1003" type="curve" smooth="yes"/>
+	  <point x="-152" y="1003"/>
+	  <point x="-200" y="970"/>
+	  <point x="-200" y="905" type="curve" smooth="yes"/>
+	  <point x="-200" y="858"/>
+	  <point x="-182" y="824"/>
+	  <point x="-155" y="800" type="curve"/>
+	  <point x="-20" y="846" type="line"/>
+	  <point x="4" y="821"/>
+	  <point x="36" y="782"/>
+	  <point x="75" y="730" type="curve" smooth="yes"/>
+	  <point x="81" y="722"/>
+	  <point x="101" y="695"/>
+	  <point x="119" y="669" type="curve"/>
+	  <point x="-56" y="669" type="line"/>
+	  <point x="-56" y="647" type="line"/>
+	  <point x="-9" y="556" type="line"/>
+	  <point x="90" y="556" type="line"/>
+	  <point x="90" y="26" type="line"/>
+	  <point x="201" y="-37" type="line"/>
+	  <point x="224" y="-37" type="line"/>
+	  <point x="224" y="556" type="line"/>
+	  <point x="313" y="556" type="line"/>
+	  <point x="313" y="577" type="line"/>
+	  <point x="264" y="669" type="line"/>
+	  <point x="196" y="669" type="line"/>
+	  <point x="168" y="712"/>
+	  <point x="141" y="765"/>
+	  <point x="142" y="816" type="curve" smooth="yes"/>
+	  <point x="143" y="870"/>
+	  <point x="181" y="899"/>
+	  <point x="222" y="899" type="curve" smooth="yes"/>
+	</contour>
+	<contour>
+	  <point x="157" y="669" type="move" name="top"/>
+	</contour>
+	<contour>
+	  <point x="157" y="0" type="move" name="bottom"/>
+	</contour>
+  </outline>
+</glyph>

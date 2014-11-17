@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="llla-deva" format="1">
+  <advance width="761"/>
+  <unicode hex="0934"/>
+  <outline>
+	<contour>
+	  <point x="337" y="20" type="line"/>
+	  <point x="400" y="-43" type="line"/>
+	  <point x="463" y="20" type="line"/>
+	  <point x="400" y="83" type="line"/>
+	</contour>
+	<component base="lla-deva"/>
+  </outline>
+</glyph>

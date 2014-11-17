@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m_ra-deva" format="1">
+  <advance width="670"/>
+  <outline>
+	<contour>
+	  <point x="621" y="669" type="line"/>
+	  <point x="-56" y="669" type="line"/>
+	  <point x="-56" y="647" type="line"/>
+	  <point x="-9" y="556" type="line"/>
+	  <point x="118" y="556" type="line"/>
+	  <point x="118" y="357" type="line"/>
+	  <point x="47" y="357" type="line"/>
+	  <point x="44" y="343"/>
+	  <point x="42" y="325"/>
+	  <point x="42" y="305" type="curve" smooth="yes"/>
+	  <point x="42" y="250"/>
+	  <point x="77" y="149"/>
+	  <point x="157" y="150" type="curve" smooth="yes"/>
+	  <point x="220" y="151"/>
+	  <point x="241" y="199"/>
+	  <point x="247" y="245" type="curve"/>
+	  <point x="397" y="245" type="line"/>
+	  <point x="148" y="22" type="line"/>
+	  <point x="223" y="-68" type="line"/>
+	  <point x="447" y="156" type="line"/>
+	  <point x="447" y="26" type="line"/>
+	  <point x="558" y="-37" type="line"/>
+	  <point x="580" y="-37" type="line"/>
+	  <point x="580" y="556" type="line"/>
+	  <point x="670" y="556" type="line"/>
+	  <point x="670" y="577" type="line"/>
+	</contour>
+	<contour>
+	  <point x="250" y="556" type="line"/>
+	  <point x="447" y="556" type="line"/>
+	  <point x="447" y="357" type="line"/>
+	  <point x="250" y="357" type="line"/>
+	</contour>
+	<contour>
+	  <point x="515" y="669" type="move" name="top"/>
+	</contour>
+	<contour>
+	  <point x="515" y="0" type="move" name="bottom"/>
+	</contour>
+	<contour>
+	  <point x="396" y="-130" type="move" name="nukta"/>
+	</contour>
+  </outline>
+</glyph>

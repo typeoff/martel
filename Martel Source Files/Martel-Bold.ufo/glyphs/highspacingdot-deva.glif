@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="highspacingdot-deva" format="1">
+  <advance width="313"/>
+  <unicode hex="0971"/>
+  <outline>
+	<contour>
+	  <point x="45" y="614" type="line"/>
+	  <point x="157" y="502" type="line"/>
+	  <point x="268" y="614" type="line"/>
+	  <point x="157" y="725" type="line"/>
+	</contour>
+  </outline>
+</glyph>

@@ -2,51 +2,51 @@
 <glyph name="oMatra_reph-deva" format="1">
   <advance width="307"/>
   <outline>
-    <contour>
-      <point x="258" y="909"/>
-      <point x="310" y="883"/>
-      <point x="332" y="866" type="curve"/>
-      <point x="358" y="908" type="line"/>
-      <point x="314" y="954"/>
-      <point x="256" y="983"/>
-      <point x="195" y="983" type="curve" smooth="yes"/>
-      <point x="125" y="983"/>
-      <point x="55" y="934"/>
-      <point x="42" y="865" type="curve"/>
-      <point x="-15" y="956"/>
-      <point x="-79" y="1018"/>
-      <point x="-159" y="1018" type="curve" smooth="yes"/>
-      <point x="-202" y="1018"/>
-      <point x="-230" y="996"/>
-      <point x="-230" y="956" type="curve" smooth="yes"/>
-      <point x="-230" y="928"/>
-      <point x="-214" y="900"/>
-      <point x="-195" y="885" type="curve"/>
-      <point x="-76" y="921" type="line"/>
-      <point x="-54" y="910"/>
-      <point x="5" y="844"/>
-      <point x="56" y="753" type="curve" smooth="yes"/>
-      <point x="65" y="738"/>
-      <point x="92" y="682"/>
-      <point x="106" y="650" type="curve"/>
-      <point x="-31" y="650" type="line"/>
-      <point x="-31" y="634" type="line"/>
-      <point x="0" y="575" type="line"/>
-      <point x="109" y="575" type="line"/>
-      <point x="109" y="-1" type="line"/>
-      <point x="182" y="-42" type="line"/>
-      <point x="198" y="-42" type="line"/>
-      <point x="198" y="575" type="line"/>
-      <point x="307" y="575" type="line"/>
-      <point x="307" y="590" type="line"/>
-      <point x="275" y="650" type="line"/>
-      <point x="180" y="650" type="line"/>
-      <point x="150" y="706"/>
-      <point x="123" y="754"/>
-      <point x="123" y="814" type="curve" smooth="yes"/>
-      <point x="123" y="878"/>
-      <point x="164" y="909"/>
-      <point x="213" y="909" type="curve" smooth="yes"/>
-    </contour>
+	<contour>
+	  <point x="258" y="909"/>
+	  <point x="310" y="883"/>
+	  <point x="332" y="866" type="curve"/>
+	  <point x="358" y="908" type="line"/>
+	  <point x="314" y="954"/>
+	  <point x="256" y="983"/>
+	  <point x="195" y="983" type="curve" smooth="yes"/>
+	  <point x="125" y="983"/>
+	  <point x="55" y="934"/>
+	  <point x="42" y="865" type="curve"/>
+	  <point x="-15" y="956"/>
+	  <point x="-79" y="1018"/>
+	  <point x="-159" y="1018" type="curve" smooth="yes"/>
+	  <point x="-202" y="1018"/>
+	  <point x="-230" y="996"/>
+	  <point x="-230" y="956" type="curve" smooth="yes"/>
+	  <point x="-230" y="928"/>
+	  <point x="-214" y="900"/>
+	  <point x="-195" y="885" type="curve"/>
+	  <point x="-76" y="921" type="line"/>
+	  <point x="-54" y="910"/>
+	  <point x="5" y="844"/>
+	  <point x="56" y="753" type="curve" smooth="yes"/>
+	  <point x="65" y="738"/>
+	  <point x="92" y="682"/>
+	  <point x="106" y="650" type="curve"/>
+	  <point x="-31" y="650" type="line"/>
+	  <point x="-31" y="634" type="line"/>
+	  <point x="0" y="575" type="line"/>
+	  <point x="109" y="575" type="line"/>
+	  <point x="109" y="-1" type="line"/>
+	  <point x="182" y="-42" type="line"/>
+	  <point x="198" y="-42" type="line"/>
+	  <point x="198" y="575" type="line"/>
+	  <point x="307" y="575" type="line"/>
+	  <point x="307" y="590" type="line"/>
+	  <point x="275" y="650" type="line"/>
+	  <point x="180" y="650" type="line"/>
+	  <point x="150" y="706"/>
+	  <point x="123" y="754"/>
+	  <point x="123" y="814" type="curve" smooth="yes"/>
+	  <point x="123" y="878"/>
+	  <point x="164" y="909"/>
+	  <point x="213" y="909" type="curve" smooth="yes"/>
+	</contour>
   </outline>
 </glyph>

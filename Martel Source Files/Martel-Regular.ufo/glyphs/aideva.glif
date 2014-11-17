@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aideva" format="1">
-  <advance width="588"/>
-  <unicode hex="0910"/>
-  <outline>
-    <component base="edeva"/>
-    <component base="evowelsigndeva" xOffset="608"/>
-  </outline>
-</glyph>

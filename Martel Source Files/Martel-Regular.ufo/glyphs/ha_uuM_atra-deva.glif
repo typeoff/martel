@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ha_uuMatra-deva" format="1">
+  <advance width="573"/>
+  <outline>
+	<component base="ha-deva"/>
+	<component base="uuMatra-deva" xOffset="524"/>
+	<contour>
+	  <point x="405" y="650" type="move" name="top"/>
+	</contour>
+  </outline>
+</glyph>

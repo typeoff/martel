@@ -8,160 +8,160 @@
 	</array>
 	<key>@MMK_L_b-deva</key>
 	<array>
-		<string>uni092C094D</string>
-		<string>uni0935094D</string>
+		<string>b-deva</string>
+		<string>v-deva</string>
 	</array>
 	<key>@MMK_L_bh-deva</key>
 	<array>
-		<string>uni092D094D</string>
+		<string>bh-deva</string>
 	</array>
 	<key>@MMK_L_c-deva</key>
 	<array>
-		<string>uni091A094D</string>
+		<string>c-deva</string>
 	</array>
 	<key>@MMK_L_ch-deva</key>
 	<array>
-		<string>uni091B094D</string>
+		<string>ch-deva</string>
 	</array>
 	<key>@MMK_L_da-deva</key>
 	<array>
-		<string>dadeva</string>
+		<string>da-deva</string>
 	</array>
 	<key>@MMK_L_dda-deva</key>
 	<array>
-		<string>ddadeva</string>
-		<string>dddhadeva</string>
-		<string>uni097E</string>
+		<string>dda-deva</string>
+		<string>dddha-deva</string>
+		<string>ddda-deva</string>
 	</array>
 	<key>@MMK_L_ddha-deva</key>
 	<array>
-		<string>ddhadeva</string>
-		<string>rhadeva</string>
+		<string>ddha-deva</string>
+		<string>rha-deva</string>
 	</array>
 	<key>@MMK_L_dh-deva</key>
 	<array>
-		<string>uni0927094D</string>
+		<string>dh-deva</string>
 	</array>
 	<key>@MMK_L_g_r-deva</key>
 	<array>
-		<string>uni0917094D0930094D</string>
+		<string>g_r-deva</string>
 	</array>
 	<key>@MMK_L_gh-deva</key>
 	<array>
-		<string>uni0918094D</string>
-		<string>uni0918094D0930094D</string>
+		<string>gh_r-deva</string>
+		<string>gh-deva</string>
 	</array>
 	<key>@MMK_L_h-deva</key>
 	<array>
-		<string>uni0939094D</string>
+		<string>h-deva</string>
 	</array>
 	<key>@MMK_L_ha-deva</key>
 	<array>
-		<string>hadeva</string>
+		<string>ha-deva</string>
 	</array>
 	<key>@MMK_L_j-deva</key>
 	<array>
-		<string>uni091C094D</string>
-		<string>uni091C094D091C094D</string>
+		<string>j_j-deva</string>
+		<string>j-deva</string>
 	</array>
 	<key>@MMK_L_j_ny-deva</key>
 	<array>
-		<string>uni091C094D091E094D</string>
+		<string>j_ny-deva</string>
 	</array>
 	<key>@MMK_L_jh-deva</key>
 	<array>
-		<string>uni091D094D</string>
+		<string>jh-deva</string>
 	</array>
 	<key>@MMK_L_k-deva</key>
 	<array>
-		<string>uni0915094D</string>
-		<string>uni0915094D0930094D</string>
-		<string>uni092B094D</string>
-		<string>uni091D094D.loclNEP</string>
+		<string>k_r-deva</string>
+		<string>k-deva</string>
+		<string>ph-deva</string>
+		<string>jh-deva.loclNEP</string>
 	</array>
 	<key>@MMK_L_k_ss-deva</key>
 	<array>
-		<string>uni0915094D0937094D</string>
+		<string>k_ss-deva</string>
 	</array>
 	<key>@MMK_L_ka-deva</key>
 	<array>
-		<string>kadeva</string>
-		<string>uni092B</string>
-		<string>qadeva</string>
-		<string>fadeva</string>
-		<string>uni0915094D0915</string>
-		<string>uni092B094D0930</string>
-		<string>uni095E094D0930</string>
+		<string>ka-deva</string>
+		<string>pha-deva</string>
+		<string>qa-deva</string>
+		<string>fa-deva</string>
+		<string>k_ka-deva</string>
+		<string>ph_ra-deva</string>
+		<string>f_ra-deva</string>
 	</array>
 	<key>@MMK_L_kh-deva</key>
 	<array>
-		<string>uni0916094D</string>
-		<string>uni0916094D0930094D</string>
+		<string>kh_r-deva</string>
+		<string>kh-deva</string>
 	</array>
 	<key>@MMK_L_l-deva</key>
 	<array>
-		<string>uni0932094D</string>
+		<string>l-deva</string>
 	</array>
 	<key>@MMK_L_ll-deva</key>
 	<array>
-		<string>uni0933094D</string>
-		<string>uni0934094D</string>
+		<string>ll-deva</string>
+		<string>lll-deva</string>
 	</array>
 	<key>@MMK_L_m-deva</key>
 	<array>
-		<string>uni092E094D</string>
+		<string>m-deva</string>
 	</array>
 	<key>@MMK_L_n-deva</key>
 	<array>
-		<string>uni0928094D</string>
-		<string>uni0929094D</string>
+		<string>n-deva</string>
+		<string>nnn-deva</string>
 	</array>
 	<key>@MMK_L_nga-deva</key>
 	<array>
-		<string>ngadeva</string>
-		<string>uni0919094D</string>
-		<string>uni0919094D0915094D</string>
+		<string>nga-deva</string>
+		<string>ng_k-deva</string>
+		<string>ng-deva</string>
 	</array>
 	<key>@MMK_L_ny-deva</key>
 	<array>
-		<string>uni091E094D</string>
+		<string>ny-deva</string>
 	</array>
 	<key>@MMK_L_p-deva</key>
 	<array>
-		<string>uni092A094D</string>
-		<string>uni092A094D0930094D</string>
+		<string>p_r-deva</string>
+		<string>p-deva</string>
 	</array>
 	<key>@MMK_L_s-deva</key>
 	<array>
-		<string>uni0938094D</string>
+		<string>s-deva</string>
 	</array>
 	<key>@MMK_L_ss-deva</key>
 	<array>
-		<string>uni0937094D</string>
+		<string>ss-deva</string>
 	</array>
 	<key>@MMK_L_t-deva</key>
 	<array>
-		<string>uni0924094D</string>
+		<string>t-deva</string>
 	</array>
 	<key>@MMK_L_t_r-deva</key>
 	<array>
-		<string>uni0924094D0930094D</string>
+		<string>t_r-deva</string>
 	</array>
 	<key>@MMK_L_t_t-deva</key>
 	<array>
-		<string>uni0924094D0924094D</string>
+		<string>t_t-deva</string>
 	</array>
 	<key>@MMK_L_th-deva</key>
 	<array>
-		<string>uni0925094D</string>
+		<string>th-deva</string>
 	</array>
 	<key>@MMK_L_tta-deva</key>
 	<array>
-		<string>uni091F094D</string>
+		<string>tt-deva</string>
 	</array>
 	<key>@MMK_L_y-deva</key>
 	<array>
-		<string>uni092F094D</string>
+		<string>y-deva</string>
 	</array>
 	<key>@MMK_R_T</key>
 	<array>
@@ -169,100 +169,100 @@
 	</array>
 	<key>@MMK_R_ba-deva</key>
 	<array>
-		<string>uni092C</string>
-		<string>vadeva</string>
-		<string>uni097F</string>
-		<string>uni092C094D0930</string>
-		<string>uni0935094D0930</string>
-		<string>uni092C094D</string>
-		<string>uni0935094D</string>
+		<string>ba-deva</string>
+		<string>va-deva</string>
+		<string>bba-deva</string>
+		<string>b_ra-deva</string>
+		<string>v_ra-deva</string>
+		<string>b-deva</string>
+		<string>v-deva</string>
 	</array>
 	<key>@MMK_R_bha-deva</key>
 	<array>
-		<string>bhadeva</string>
-		<string>jhadeva.loclNEP</string>
-		<string>uni092D094D0930</string>
-		<string>uni092D094D</string>
-		<string>uni091D094D.loclNEP</string>
+		<string>bha-deva</string>
+		<string>jha-deva.loclNEP</string>
+		<string>bh_ra-deva</string>
+		<string>bh-deva</string>
+		<string>jh-deva.loclNEP</string>
 	</array>
 	<key>@MMK_R_ca-deva</key>
 	<array>
-		<string>cadeva</string>
-		<string>uni091A094D091A</string>
-		<string>uni091A094D0930</string>
-		<string>uni091A094D</string>
+		<string>ca-deva</string>
+		<string>c_ca-deva</string>
+		<string>c_ra-deva</string>
+		<string>c-deva</string>
 	</array>
 	<key>@MMK_R_ch_va-deva</key>
 	<array>
-		<string>uni091B094D0935</string>
+		<string>ch_va-deva</string>
 	</array>
 	<key>@MMK_R_cha-deva</key>
 	<array>
-		<string>chadeva</string>
-		<string>uni091B094D0930</string>
-		<string>uni091B094D</string>
+		<string>cha-deva</string>
+		<string>ch_ra-deva</string>
+		<string>ch-deva</string>
 	</array>
 	<key>@MMK_R_da-deva</key>
 	<array>
-		<string>dadeva</string>
-		<string>uni0926094D092C</string>
-		<string>uni0926094D0935</string>
-		<string>uni0926094D</string>
+		<string>da-deva</string>
+		<string>d_ba-deva</string>
+		<string>d_va-deva</string>
+		<string>d-deva</string>
 	</array>
 	<key>@MMK_R_dda-deva</key>
 	<array>
-		<string>ngadeva</string>
-		<string>ddadeva</string>
-		<string>dddhadeva</string>
-		<string>uni097E</string>
-		<string>uni0919094D0930</string>
-		<string>uni0921094D092F</string>
-		<string>uni0921094D0930</string>
-		<string>uni0919094D</string>
-		<string>uni0921094D</string>
-		<string>uni0921094D0930094D</string>
+		<string>nga-deva</string>
+		<string>dda-deva</string>
+		<string>dddha-deva</string>
+		<string>ddda-deva</string>
+		<string>ng_ra-deva</string>
+		<string>dd_ya-deva</string>
+		<string>dd_ra-deva</string>
+		<string>dd_r-deva</string>
+		<string>ng-deva</string>
+		<string>dd-deva</string>
 	</array>
 	<key>@MMK_R_ddha-deva</key>
 	<array>
-		<string>ddhadeva</string>
-		<string>rhadeva</string>
-		<string>uni0922094D092F</string>
-		<string>uni0922094D0930</string>
-		<string>uni0922094D</string>
-		<string>uni0922094D0930094D</string>
+		<string>ddha-deva</string>
+		<string>rha-deva</string>
+		<string>ddh_ya-deva</string>
+		<string>ddh_ra-deva</string>
+		<string>ddh_r-deva</string>
+		<string>ddh-deva</string>
 	</array>
 	<key>@MMK_R_dha-deva</key>
 	<array>
-		<string>dhadeva</string>
-		<string>uni0927094D0930</string>
-		<string>uni0927094D</string>
+		<string>dha-deva</string>
+		<string>dh_ra-deva</string>
+		<string>dh-deva</string>
 	</array>
 	<key>@MMK_R_ga-deva</key>
 	<array>
-		<string>gadeva</string>
-		<string>ghhadeva</string>
-		<string>uni097B</string>
-		<string>uni0917094D</string>
-		<string>uni095A094D</string>
+		<string>ga-deva</string>
+		<string>ghha-deva</string>
+		<string>gga-deva</string>
+		<string>g-deva</string>
+		<string>ghh-deva</string>
 	</array>
 	<key>@MMK_R_gha-deva</key>
 	<array>
-		<string>ghadeva</string>
-		<string>uni0918094D0930</string>
-		<string>uni0918094D</string>
-		<string>uni0918094D0930094D</string>
+		<string>gha-deva</string>
+		<string>gh_ra-deva</string>
+		<string>gh_r-deva</string>
+		<string>gh-deva</string>
 	</array>
 	<key>@MMK_R_ha-deva</key>
 	<array>
-		<string>hadeva</string>
-		<string>hadeva_uvowelsigndeva</string>
-		<string>hadeva_uuvowelsigndeva</string>
-		<string>uni0939094D0923</string>
-		<string>uni0939094D0928</string>
-		<string>uni0939094D0930</string>
-		<string>uni0939094D0932</string>
-		<string>uni0939094D0935</string>
-		<string>uni0939094D</string>
+		<string>ha-deva</string>
+		<string>ha_uMatra-deva</string>
+		<string>ha_uuMatra-deva</string>
+		<string>h_nna-deva</string>
+		<string>h_na-deva</string>
+		<string>h_ra-deva</string>
+		<string>h_la-deva</string>
+		<string>h_va-deva</string>
+		<string>h-deva</string>
 	</array>
 	<key>@MMK_R_i</key>
 	<array>
@@ -271,78 +271,78 @@
 	</array>
 	<key>@MMK_R_j_nya-deva</key>
 	<array>
-		<string>uni091C094D091E094D</string>
-		<string>uni091C094D091E</string>
-		<string>uni091C094D091E094D0930</string>
-		<string>uni091C094D091E094D</string>
+		<string>ja_halant_nya_halant-deva</string>
+		<string>j_nya-deva</string>
+		<string>j_ny-deva</string>
+		<string>j_ny_ra-deva</string>
 	</array>
 	<key>@MMK_R_ja-deva</key>
 	<array>
-		<string>jadeva</string>
-		<string>zadeva</string>
-		<string>uni0979</string>
-		<string>uni097C</string>
-		<string>uni091C094D091C</string>
-		<string>uni091C094D0930</string>
-		<string>uni091C094D</string>
-		<string>uni091C094D091C094D</string>
-		<string>uni095B094D</string>
+		<string>ja-deva</string>
+		<string>za-deva</string>
+		<string>zha-deva</string>
+		<string>jja-deva</string>
+		<string>j_ja-deva</string>
+		<string>j_j-deva</string>
+		<string>j_ra-deva</string>
+		<string>j-deva</string>
+		<string>z-deva</string>
 	</array>
 	<key>@MMK_R_jha-deva</key>
 	<array>
-		<string>jhadeva</string>
-		<string>uni091D094D0930</string>
-		<string>uni091D094D</string>
+		<string>jha-deva</string>
+		<string>jh_ra-deva</string>
+		<string>jh-deva</string>
 	</array>
 	<key>@MMK_R_k_ssa-deva</key>
 	<array>
-		<string>uni0915094D0937</string>
-		<string>uni0915094D0937094D0930</string>
-		<string>uni0915094D0937094D</string>
+		<string>k_ssa-deva</string>
+		<string>k_ss-deva</string>
+		<string>k_ss_ra-deva</string>
 	</array>
 	<key>@MMK_R_ka-deva</key>
 	<array>
-		<string>kadeva</string>
-		<string>qadeva</string>
-		<string>uni0915094D0915</string>
-		<string>uni0915094D0930</string>
-		<string>uni0915094D0932</string>
-		<string>uni0915094D0935</string>
-		<string>uni0915094D</string>
-		<string>uni0915094D0930094D</string>
-		<string>uni0958094D</string>
+		<string>ka-deva</string>
+		<string>qa-deva</string>
+		<string>k_ka-deva</string>
+		<string>k_ra-deva</string>
+		<string>k_r-deva</string>
+		<string>k_la-deva</string>
+		<string>k_va-deva</string>
+		<string>k-deva</string>
+		<string>q-deva</string>
 	</array>
 	<key>@MMK_R_kha-deva</key>
 	<array>
-		<string>khadeva</string>
-		<string>khhadeva</string>
-		<string>uni0916094D0930</string>
-		<string>uni0916094D</string>
-		<string>uni0916094D0930094D</string>
-		<string>uni0959094D</string>
+		<string>kha-deva</string>
+		<string>khha-deva</string>
+		<string>kh_ra-deva</string>
+		<string>kh_r-deva</string>
+		<string>kh-deva</string>
+		<string>khh-deva</string>
 	</array>
 	<key>@MMK_R_la-deva</key>
 	<array>
-		<string>uni0932</string>
-		<string>uni0932.loclMAR</string>
-		<string>uni0932094D0930</string>
-		<string>uni0932094D0932</string>
-		<string>uni0932094D</string>
-		<string>uni0932094D.loclMAR</string>
+		<string>la-deva</string>
+		<string>la-deva.loclMAR</string>
+		<string>l_ra-deva</string>
+		<string>l_la-deva</string>
+		<string>l-deva</string>
+		<string>l-deva.loclMAR</string>
 	</array>
 	<key>@MMK_R_lla-deva</key>
 	<array>
-		<string>lladeva</string>
-		<string>llladeva</string>
-		<string>uni0933094D0930</string>
-		<string>uni0933094D</string>
-		<string>uni0934094D</string>
+		<string>lla-deva</string>
+		<string>llla-deva</string>
+		<string>ll_ra-deva</string>
+		<string>ll-deva</string>
+		<string>lll-deva</string>
 	</array>
 	<key>@MMK_R_ma-deva</key>
 	<array>
-		<string>madeva</string>
-		<string>uni092E094D0930</string>
-		<string>uni092E094D</string>
+		<string>ma-deva</string>
+		<string>m_ra-deva</string>
+		<string>m-deva</string>
 	</array>
 	<key>@MMK_R_n</key>
 	<array>
@@ -353,21 +353,21 @@
 	</array>
 	<key>@MMK_R_na-deva</key>
 	<array>
-		<string>nadeva</string>
-		<string>nnnadeva</string>
-		<string>uni0928094D</string>
-		<string>uni0929094D</string>
+		<string>na-deva</string>
+		<string>nnna-deva</string>
+		<string>n-deva</string>
+		<string>nnn-deva</string>
 	</array>
 	<key>@MMK_R_nna-deva</key>
 	<array>
-		<string>nnadeva</string>
-		<string>uni0923094D0930</string>
-		<string>uni0923094D</string>
+		<string>nna-deva</string>
+		<string>nn_ra-deva</string>
+		<string>nn-deva</string>
 	</array>
 	<key>@MMK_R_nya-deva</key>
 	<array>
-		<string>nyadeva</string>
-		<string>uni091E094D</string>
+		<string>nya-deva</string>
+		<string>ny-deva</string>
 	</array>
 	<key>@MMK_R_o</key>
 	<array>
@@ -376,29 +376,29 @@
 	</array>
 	<key>@MMK_R_pa-deva</key>
 	<array>
-		<string>padeva</string>
-		<string>uni092B</string>
-		<string>fadeva</string>
-		<string>uni092A094D0930</string>
-		<string>uni092A094D0932</string>
-		<string>uni092B094D0930</string>
-		<string>uni092B094D0932</string>
-		<string>uni095E094D0930</string>
-		<string>uni092A094D</string>
-		<string>uni092A094D0930094D</string>
-		<string>uni092B094D</string>
-		<string>uni095E094D</string>
+		<string>pa-deva</string>
+		<string>pha-deva</string>
+		<string>fa-deva</string>
+		<string>p_ra-deva</string>
+		<string>p_r-deva</string>
+		<string>p_la-deva</string>
+		<string>ph_ra-deva</string>
+		<string>ph_la-deva</string>
+		<string>f_ra-deva</string>
+		<string>p-deva</string>
+		<string>ph-deva</string>
+		<string>f-deva</string>
 	</array>
 	<key>@MMK_R_ra-deva</key>
 	<array>
-		<string>radeva</string>
-		<string>rradeva</string>
-		<string>sadeva</string>
-		<string>radeva_uvowelsigndeva</string>
-		<string>radeva_uuvowelsigndeva</string>
-		<string>uni0938094D0924094D0930</string>
-		<string>uni0938094D0930</string>
-		<string>uni0938094D</string>
+		<string>ra-deva</string>
+		<string>rra-deva</string>
+		<string>sa-deva</string>
+		<string>ra_uMatra-deva</string>
+		<string>ra_uuMatra-deva</string>
+		<string>s_t_ra-deva</string>
+		<string>s_ra-deva</string>
+		<string>s-deva</string>
 	</array>
 	<key>@MMK_R_s</key>
 	<array>
@@ -406,26 +406,26 @@
 	</array>
 	<key>@MMK_R_sha-deva</key>
 	<array>
-		<string>shadeva</string>
-		<string>uni0936094D</string>
+		<string>sha-deva</string>
+		<string>sh-deva</string>
 	</array>
 	<key>@MMK_R_sha-deva.loclMAR</key>
 	<array>
-		<string>shadeva.loclMAR</string>
-		<string>uni0936094D.loclMAR</string>
+		<string>sha-deva.loclMAR</string>
+		<string>sh-deva.loclMAR</string>
 	</array>
 	<key>@MMK_R_ss_tta-deva</key>
 	<array>
-		<string>uni0937094D091F</string>
-		<string>uni0937094D091F094D0930</string>
-		<string>uni0937094D0920</string>
-		<string>uni0937094D0920094D0930</string>
+		<string>ss_tta-deva</string>
+		<string>ss_tt_ra-deva</string>
+		<string>ss_ttha-deva</string>
+		<string>ss_tth_ra-deva</string>
 	</array>
 	<key>@MMK_R_ssa-deva</key>
 	<array>
-		<string>ssadeva</string>
-		<string>uni0937094D0930</string>
-		<string>uni0937094D</string>
+		<string>ssa-deva</string>
+		<string>ss_ra-deva</string>
+		<string>ss-deva</string>
 	</array>
 	<key>@MMK_R_t</key>
 	<array>
@@ -433,44 +433,44 @@
 	</array>
 	<key>@MMK_R_t_ta-deva</key>
 	<array>
-		<string>uni0915094D0924</string>
-		<string>uni0924094D0924</string>
-		<string>uni0924094D0924094D</string>
+		<string>k_ta-deva</string>
+		<string>t_ta-deva</string>
+		<string>t_t-deva</string>
 	</array>
 	<key>@MMK_R_ta-deva</key>
 	<array>
-		<string>uni0924094D</string>
+		<string>t-deva</string>
 	</array>
 	<key>@MMK_R_tha-deva</key>
 	<array>
-		<string>thadeva</string>
-		<string>uni0925094D0930</string>
-		<string>uni0925094D</string>
+		<string>tha-deva</string>
+		<string>th_ra-deva</string>
+		<string>th-deva</string>
 	</array>
 	<key>@MMK_R_tt_tta-deva</key>
 	<array>
-		<string>uni091F094D091F</string>
-		<string>uni091F094D0920</string>
-		<string>uni0920094D0920</string>
+		<string>tt_tta-deva</string>
+		<string>tt_ttha-deva</string>
+		<string>tth_ttha-deva</string>
 	</array>
 	<key>@MMK_R_tta-deva</key>
 	<array>
-		<string>ttadeva</string>
-		<string>uni091F094D092F</string>
-		<string>uni091F094D0930</string>
-		<string>uni091F094D0935</string>
-		<string>uni091F094D</string>
+		<string>tta-deva</string>
+		<string>tt_ya-deva</string>
+		<string>tt_ra-deva</string>
+		<string>tt_va-deva</string>
+		<string>tt-deva</string>
 	</array>
 	<key>@MMK_R_tth_ya-deva</key>
 	<array>
-		<string>uni0920094D092F</string>
+		<string>tth_ya-deva</string>
 	</array>
 	<key>@MMK_R_ttha-deva</key>
 	<array>
-		<string>tthadeva</string>
-		<string>uni0920094D0930</string>
-		<string>uni0920094D</string>
-		<string>uni0920094D0930094D</string>
+		<string>ttha-deva</string>
+		<string>tth_ra-deva</string>
+		<string>tth_r-deva</string>
+		<string>tth-deva</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>
@@ -488,10 +488,10 @@
 	</array>
 	<key>@MMK_R_ya-deva</key>
 	<array>
-		<string>uni092F</string>
-		<string>yyadeva</string>
-		<string>uni092F094D0930</string>
-		<string>uni092F094D</string>
+		<string>ya-deva</string>
+		<string>yya-deva</string>
+		<string>y_ra-deva</string>
+		<string>y-deva</string>
 	</array>
 	<key>@MMK_R_z</key>
 	<array>
@@ -499,7 +499,7 @@
 	</array>
 	<key>@MMK_R_zha-deva.loclNEP</key>
 	<array>
-		<string>uni0979.loclNEP</string>
+		<string>zha-deva.loclNEP</string>
 	</array>
 </dict>
 </plist>

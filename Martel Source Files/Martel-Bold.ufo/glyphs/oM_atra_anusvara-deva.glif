@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oMatra_anusvara-deva" format="1">
+  <advance width="313"/>
+  <outline>
+	<component base="oMatra-deva"/>
+	<component base="anusvara-deva" xOffset="404"/>
+  </outline>
+</glyph>

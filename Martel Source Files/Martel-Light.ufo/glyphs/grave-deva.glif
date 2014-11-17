@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave-deva" format="1">
+  <advance width="0"/>
+  <unicode hex="0953"/>
+  <outline>
+	<contour>
+	  <point x="-198" y="739" type="line"/>
+	  <point x="-167" y="759" type="line"/>
+	  <point x="-167" y="766" type="line"/>
+	  <point x="-322" y="991" type="line"/>
+	  <point x="-381" y="976" type="line"/>
+	  <point x="-381" y="969" type="line"/>
+	</contour>
+	<contour>
+	  <point x="-153" y="650" type="move" name="_top"/>
+	</contour>
+  </outline>
+</glyph>

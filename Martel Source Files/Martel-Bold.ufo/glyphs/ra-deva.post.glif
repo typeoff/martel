@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ra-deva.post" format="1">
+  <advance width="0"/>
+  <outline>
+	<contour>
+	  <point x="-531" y="115" type="line"/>
+	  <point x="-453" y="28" type="line"/>
+	  <point x="-204" y="209" type="line"/>
+	  <point x="-207" y="326" type="line"/>
+	</contour>
+  </outline>
+</glyph>

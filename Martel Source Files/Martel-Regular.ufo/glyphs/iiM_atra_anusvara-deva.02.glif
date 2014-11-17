@@ -2,10 +2,10 @@
 <glyph name="iiMatra_anusvara-deva.02" format="1">
   <advance width="307"/>
   <outline>
-    <component base="uni0940.02"/>
-    <component base="anusvaradeva" xOffset="372" yOffset="-1"/>
-    <contour>
-      <point x="-411" y="650" type="move" name="iimatra"/>
-    </contour>
+	<component base="iiMatra-deva.02"/>
+	<component base="anusvara-deva" xOffset="372" yOffset="-1"/>
+	<contour>
+	  <point x="-411" y="650" type="move" name="iimatra"/>
+	</contour>
   </outline>
 </glyph>

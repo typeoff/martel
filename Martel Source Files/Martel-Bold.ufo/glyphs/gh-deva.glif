@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gh-deva" format="1">
+  <advance width="457"/>
+  <outline>
+	<contour>
+	  <point x="19" y="559"/>
+	  <point x="17" y="541"/>
+	  <point x="17" y="527" type="curve" smooth="yes"/>
+	  <point x="18" y="464"/>
+	  <point x="74" y="435"/>
+	  <point x="153" y="403" type="curve"/>
+	  <point x="115" y="369"/>
+	  <point x="88" y="318"/>
+	  <point x="88" y="261" type="curve" smooth="yes"/>
+	  <point x="88" y="227"/>
+	  <point x="112" y="180"/>
+	  <point x="149" y="141" type="curve" smooth="yes"/>
+	  <point x="186" y="102"/>
+	  <point x="237" y="71"/>
+	  <point x="291" y="71" type="curve" smooth="yes"/>
+	  <point x="405" y="71"/>
+	  <point x="475" y="121"/>
+	  <point x="572" y="187" type="curve"/>
+	  <point x="521" y="314" type="line"/>
+	  <point x="469" y="248"/>
+	  <point x="344" y="176"/>
+	  <point x="248" y="176" type="curve" smooth="yes"/>
+	  <point x="213" y="176"/>
+	  <point x="164" y="197"/>
+	  <point x="164" y="233" type="curve" smooth="yes"/>
+	  <point x="164" y="274"/>
+	  <point x="218" y="332"/>
+	  <point x="310" y="332" type="curve" smooth="yes"/>
+	  <point x="329" y="332"/>
+	  <point x="345" y="329"/>
+	  <point x="363" y="322" type="curve"/>
+	  <point x="373" y="345" type="line"/>
+	  <point x="357" y="438" type="line"/>
+	  <point x="335" y="449"/>
+	  <point x="293" y="451"/>
+	  <point x="264" y="451" type="curve" smooth="yes"/>
+	  <point x="245" y="451"/>
+	  <point x="226" y="447"/>
+	  <point x="207" y="439" type="curve"/>
+	  <point x="179" y="453"/>
+	  <point x="138" y="476"/>
+	  <point x="135" y="504" type="curve"/>
+	  <point x="135" y="540"/>
+	  <point x="151" y="563"/>
+	  <point x="173" y="577" type="curve"/>
+	  <point x="23" y="580" type="line"/>
+	</contour>
+	<contour>
+	  <point x="-56" y="669" type="line"/>
+	  <point x="-56" y="647" type="line"/>
+	  <point x="-9" y="556" type="line"/>
+	  <point x="506" y="556" type="line"/>
+	  <point x="506" y="577" type="line"/>
+	  <point x="457" y="669" type="line"/>
+	</contour>
+	<contour>
+	  <point x="85" y="0" type="move" name="nukta"/>
+	</contour>
+  </outline>
+</glyph>

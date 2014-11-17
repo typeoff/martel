@@ -23,1050 +23,1050 @@
 		<key>@MMK_R_z</key>
 		<integer>-47</integer>
 	</dict>
-	<key>@MMK_L_bdeva</key>
+	<key>@MMK_L_b-deva</key>
 	<dict>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_dadeva</key>
+		<key>@MMK_R_da-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_jadeva</key>
+		<key>@MMK_R_ja-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_kadeva</key>
+		<key>@MMK_R_ka-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_madeva</key>
+		<key>@MMK_R_ma-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>13</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-40</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>-20</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_tth_yadeva</key>
+		<key>@MMK_R_tth_ya-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_tthadeva</key>
+		<key>@MMK_R_ttha-deva</key>
 		<integer>5</integer>
-		<key>@MMK_R_zhadeva.loclNEP</key>
+		<key>@MMK_R_zha-deva.loclNEP</key>
 		<integer>40</integer>
 	</dict>
-	<key>@MMK_L_bhdeva</key>
+	<key>@MMK_L_bh-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>-75</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>-35</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_jadeva</key>
+		<key>@MMK_R_ja-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_khadeva</key>
+		<key>@MMK_R_kha-deva</key>
 		<integer>-17</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-60</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-45</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>-60</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_yadeva</key>
+		<key>@MMK_R_ya-deva</key>
 		<integer>-15</integer>
 	</dict>
-	<key>@MMK_L_cdeva</key>
+	<key>@MMK_L_c-deva</key>
 	<dict>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-60</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_dadeva</key>
+		<key>@MMK_R_da-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_j_nyadeva</key>
+		<key>@MMK_R_j_nya-deva</key>
 		<integer>5</integer>
-		<key>@MMK_R_kadeva</key>
+		<key>@MMK_R_ka-deva</key>
 		<integer>5</integer>
-		<key>@MMK_R_lladeva</key>
+		<key>@MMK_R_lla-deva</key>
 		<integer>15</integer>
-		<key>@MMK_R_nadeva</key>
+		<key>@MMK_R_na-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-45</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_ttadeva</key>
+		<key>@MMK_R_tta-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_tth_yadeva</key>
+		<key>@MMK_R_tth_ya-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_tthadeva</key>
+		<key>@MMK_R_ttha-deva</key>
 		<integer>20</integer>
 	</dict>
-	<key>@MMK_L_chdeva</key>
+	<key>@MMK_L_ch-deva</key>
 	<dict>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>25</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_gadeva</key>
+		<key>@MMK_R_ga-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_j_nyadeva</key>
+		<key>@MMK_R_j_nya-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_jadeva</key>
+		<key>@MMK_R_ja-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_madeva</key>
+		<key>@MMK_R_ma-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_nadeva</key>
+		<key>@MMK_R_na-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>15</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
-		<key>uni0919094D0915</key>
+		<key>d_ma-deva</key>
 		<integer>20</integer>
-		<key>uni0919094D0915094D0937</key>
+		<key>d_ya-deva</key>
 		<integer>30</integer>
-		<key>uni0919094D0916</key>
+		<key>dd_dda-deva</key>
+		<integer>10</integer>
+		<key>dd_ddha-deva</key>
+		<integer>10</integer>
+		<key>ddh_ddha-deva</key>
+		<integer>10</integer>
+		<key>j_ny_ra-deva</key>
+		<integer>30</integer>
+		<key>ja_halant_nya_halant-deva</key>
+		<integer>30</integer>
+		<key>jh_ra-deva</key>
+		<integer>30</integer>
+		<key>n_na-deva</key>
+		<integer>10</integer>
+		<key>n_ra-deva</key>
+		<integer>10</integer>
+		<key>ng_ga-deva</key>
 		<integer>20</integer>
-		<key>uni0919094D0917</key>
+		<key>ng_gha-deva</key>
+		<integer>30</integer>
+		<key>ng_k_ssa-deva</key>
+		<integer>30</integer>
+		<key>ng_ka-deva</key>
 		<integer>20</integer>
-		<key>uni0919094D0918</key>
-		<integer>30</integer>
-		<key>uni0919094D092E</key>
-		<integer>10</integer>
-		<key>uni091C094D091E094D</key>
-		<integer>30</integer>
-		<key>uni091C094D091E094D0930</key>
-		<integer>30</integer>
-		<key>uni091D094D0930</key>
-		<integer>30</integer>
-		<key>uni091E094D0930</key>
-		<integer>10</integer>
-		<key>uni0921094D0921</key>
-		<integer>10</integer>
-		<key>uni0921094D0922</key>
-		<integer>10</integer>
-		<key>uni0922094D0922</key>
-		<integer>10</integer>
-		<key>uni0926094D092E</key>
+		<key>ng_kha-deva</key>
 		<integer>20</integer>
-		<key>uni0926094D092F</key>
-		<integer>30</integer>
-		<key>uni0928094D0928</key>
+		<key>ng_ma-deva</key>
 		<integer>10</integer>
-		<key>uni0928094D0930</key>
+		<key>ny_ra-deva</key>
 		<integer>10</integer>
-		<key>uni092A094D0924</key>
+		<key>p_la-deva</key>
+		<integer>30</integer>
+		<key>p_ta-deva</key>
 		<integer>10</integer>
-		<key>uni092A094D0932</key>
-		<integer>30</integer>
-		<key>uni0936094D0930</key>
-		<integer>30</integer>
-		<key>uni0936094D0930094D091A</key>
+		<key>sh_r_ca-deva</key>
 		<integer>20</integer>
-		<key>uni0936094D0930094D0928</key>
+		<key>sh_r_la-deva</key>
 		<integer>30</integer>
-		<key>uni0936094D0930094D0932</key>
+		<key>sh_r_na-deva</key>
 		<integer>30</integer>
-		<key>uni0936094D0930094D0935</key>
+		<key>sh_r_va-deva</key>
 		<integer>30</integer>
-		<key>uni0937094D091F</key>
+		<key>sh_ra-deva</key>
 		<integer>30</integer>
-		<key>uni0937094D091F094D0930</key>
+		<key>ss_tt_ra-deva</key>
 		<integer>30</integer>
-		<key>uni0937094D0920</key>
+		<key>ss_tta-deva</key>
 		<integer>30</integer>
-		<key>uni0937094D0920094D0930</key>
+		<key>ss_tth_ra-deva</key>
+		<integer>30</integer>
+		<key>ss_ttha-deva</key>
 		<integer>30</integer>
 	</dict>
-	<key>@MMK_L_g_rdeva</key>
+	<key>@MMK_L_g_r-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>-55</integer>
-		<key>@MMK_R_dadeva</key>
+		<key>@MMK_R_da-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_lladeva</key>
+		<key>@MMK_R_lla-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_nadeva</key>
+		<key>@MMK_R_na-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>-10</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ttadeva</key>
+		<key>@MMK_R_tta-deva</key>
 		<integer>15</integer>
-		<key>@MMK_R_tthadeva</key>
+		<key>@MMK_R_ttha-deva</key>
 		<integer>30</integer>
 	</dict>
-	<key>@MMK_L_ghdeva</key>
+	<key>@MMK_L_gh-deva</key>
 	<dict>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>-55</integer>
-		<key>@MMK_R_dadeva</key>
+		<key>@MMK_R_da-deva</key>
 		<integer>15</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>-70</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>25</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>15</integer>
-		<key>@MMK_R_lladeva</key>
+		<key>@MMK_R_lla-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_nadeva</key>
+		<key>@MMK_R_na-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-60</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-40</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_ttadeva</key>
+		<key>@MMK_R_tta-deva</key>
 		<integer>7</integer>
-		<key>@MMK_R_tthadeva</key>
+		<key>@MMK_R_ttha-deva</key>
 		<integer>20</integer>
 	</dict>
-	<key>@MMK_L_hdeva</key>
+	<key>@MMK_L_h-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>-70</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-45</integer>
-		<key>@MMK_R_jadeva</key>
+		<key>@MMK_R_ja-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_k_ssadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_khadeva</key>
+		<key>@MMK_R_kha-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-45</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_shadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_yadeva</key>
+		<key>@MMK_R_ya-deva</key>
 		<integer>-5</integer>
 	</dict>
-	<key>@MMK_L_jdeva</key>
+	<key>@MMK_L_j-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_ch_vadeva</key>
+		<key>@MMK_R_ch_va-deva</key>
 		<integer>14</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_dadeva</key>
+		<key>@MMK_R_da-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_gadeva</key>
+		<key>@MMK_R_ga-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_j_nyadeva</key>
+		<key>@MMK_R_j_nya-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_k_ssadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>50</integer>
-		<key>@MMK_R_kadeva</key>
+		<key>@MMK_R_ka-deva</key>
 		<integer>15</integer>
-		<key>@MMK_R_khadeva</key>
+		<key>@MMK_R_kha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>-40</integer>
-		<key>@MMK_R_shadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_tt_ttadeva</key>
+		<key>@MMK_R_tt_tta-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_ttadeva</key>
+		<key>@MMK_R_tta-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_yadeva</key>
+		<key>@MMK_R_ya-deva</key>
 		<integer>-10</integer>
-		<key>uni0926094D0928</key>
+		<key>d_na-deva</key>
 		<integer>20</integer>
-		<key>uni0926094D0930</key>
+		<key>d_ra-deva</key>
 		<integer>20</integer>
-		<key>uni092A094D0924</key>
+		<key>p_ta-deva</key>
 		<integer>-10</integer>
 	</dict>
-	<key>@MMK_L_jhdeva</key>
+	<key>@MMK_L_jh-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>-55</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_k_ssadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>-35</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-35</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_shadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ttadeva</key>
+		<key>@MMK_R_tta-deva</key>
 		<integer>-5</integer>
 	</dict>
-	<key>@MMK_L_k_ssdeva</key>
+	<key>@MMK_L_k-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_chadeva</key>
-		<integer>-30</integer>
-		<key>@MMK_R_ddadeva</key>
-		<integer>-30</integer>
-		<key>@MMK_R_ddhadeva</key>
-		<integer>10</integer>
-		<key>@MMK_R_dhadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
-		<integer>-35</integer>
-		<key>@MMK_R_hadeva</key>
-		<integer>-15</integer>
-		<key>@MMK_R_jhadeva</key>
-		<integer>-45</integer>
-		<key>@MMK_R_k_ssadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_kadeva</key>
-		<integer>5</integer>
-		<key>@MMK_R_madeva</key>
-		<integer>-30</integer>
-		<key>@MMK_R_nnadeva</key>
-		<integer>-5</integer>
-		<key>@MMK_R_nyadeva</key>
-		<integer>15</integer>
-		<key>@MMK_R_padeva</key>
-		<integer>-20</integer>
-		<key>@MMK_R_shadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
-		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
-		<integer>-5</integer>
-		<key>@MMK_R_thadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_ttadeva</key>
-		<integer>-20</integer>
-	</dict>
-	<key>@MMK_L_kdeva</key>
-	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_gadeva</key>
+		<key>@MMK_R_ga-deva</key>
 		<integer>-35</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_jadeva</key>
+		<key>@MMK_R_ja-deva</key>
 		<integer>18</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_madeva</key>
+		<key>@MMK_R_ma-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_shadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>20</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
 	</dict>
-	<key>@MMK_L_ldeva</key>
+	<key>@MMK_L_k_ss-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
-		<integer>10</integer>
-		<key>@MMK_R_chadeva</key>
-		<integer>-20</integer>
-		<key>@MMK_R_ddadeva</key>
-		<integer>-40</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_dda-deva</key>
+		<integer>-30</integer>
+		<key>@MMK_R_ddha-deva</key>
+		<integer>10</integer>
+		<key>@MMK_R_dha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_gha-deva</key>
+		<integer>-35</integer>
+		<key>@MMK_R_ha-deva</key>
+		<integer>-15</integer>
+		<key>@MMK_R_jha-deva</key>
+		<integer>-45</integer>
+		<key>@MMK_R_k_ssa-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_ka-deva</key>
+		<integer>5</integer>
+		<key>@MMK_R_ma-deva</key>
+		<integer>-30</integer>
+		<key>@MMK_R_nna-deva</key>
+		<integer>-5</integer>
+		<key>@MMK_R_nya-deva</key>
+		<integer>15</integer>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_sha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_sha-deva.loclMAR</key>
+		<integer>30</integer>
+		<key>@MMK_R_ssa-deva</key>
+		<integer>-5</integer>
+		<key>@MMK_R_tha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_tta-deva</key>
+		<integer>-20</integer>
+	</dict>
+	<key>@MMK_L_l-deva</key>
+	<dict>
+		<key>@MMK_R_bha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_ca-deva</key>
+		<integer>10</integer>
+		<key>@MMK_R_cha-deva</key>
+		<integer>-20</integer>
+		<key>@MMK_R_dda-deva</key>
+		<integer>-40</integer>
+		<key>@MMK_R_dha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_gha-deva</key>
+		<integer>-30</integer>
+		<key>@MMK_R_ha-deva</key>
+		<integer>-20</integer>
+		<key>@MMK_R_jha-deva</key>
 		<integer>-41</integer>
-		<key>@MMK_R_k_ssadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>-35</integer>
-		<key>@MMK_R_madeva</key>
+		<key>@MMK_R_ma-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_shadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
 	</dict>
-	<key>@MMK_L_lldeva</key>
+	<key>@MMK_L_ll-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_madeva</key>
+		<key>@MMK_R_ma-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_nadeva</key>
+		<key>@MMK_R_na-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_shadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
 	</dict>
-	<key>@MMK_L_mdeva</key>
+	<key>@MMK_L_m-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>-70</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-45</integer>
-		<key>@MMK_R_jadeva</key>
+		<key>@MMK_R_ja-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_k_ssadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_khadeva</key>
+		<key>@MMK_R_kha-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-45</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-60</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_shadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>-60</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_yadeva</key>
+		<key>@MMK_R_ya-deva</key>
 		<integer>-5</integer>
 	</dict>
-	<key>@MMK_L_ndeva</key>
+	<key>@MMK_L_n-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_dadeva</key>
+		<key>@MMK_R_da-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>15</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_gadeva</key>
+		<key>@MMK_R_ga-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_jadeva</key>
+		<key>@MMK_R_ja-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>15</integer>
-		<key>@MMK_R_k_ssadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_kadeva</key>
+		<key>@MMK_R_ka-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_khadeva</key>
+		<key>@MMK_R_kha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_shadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
 	</dict>
-	<key>@MMK_L_nydeva</key>
+	<key>@MMK_L_ny-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_dadeva</key>
+		<key>@MMK_R_da-deva</key>
 		<integer>5</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_k_ssadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>-16</integer>
-		<key>@MMK_R_kadeva</key>
+		<key>@MMK_R_ka-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_ladeva</key>
+		<key>@MMK_R_la-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_lladeva</key>
+		<key>@MMK_R_lla-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_madeva</key>
+		<key>@MMK_R_ma-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_nadeva</key>
+		<key>@MMK_R_na-deva</key>
 		<integer>35</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-35</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ttadeva</key>
+		<key>@MMK_R_tta-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_tthadeva</key>
+		<key>@MMK_R_ttha-deva</key>
 		<integer>5</integer>
 	</dict>
-	<key>@MMK_L_pdeva</key>
+	<key>@MMK_L_p-deva</key>
 	<dict>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>-60</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-35</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>-68</integer>
-		<key>@MMK_R_k_ssadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-45</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ttadeva</key>
+		<key>@MMK_R_tta-deva</key>
 		<integer>-15</integer>
 	</dict>
-	<key>@MMK_L_sdeva</key>
+	<key>@MMK_L_s-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-55</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>-35</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-24</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_k_ssadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>-45</integer>
-		<key>@MMK_R_kadeva</key>
+		<key>@MMK_R_ka-deva</key>
 		<integer>5</integer>
-		<key>@MMK_R_madeva</key>
+		<key>@MMK_R_ma-deva</key>
 		<integer>-45</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-40</integer>
-		<key>@MMK_R_shadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>-20</integer>
 	</dict>
-	<key>@MMK_L_ssdeva</key>
+	<key>@MMK_L_ss-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-40</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_dadeva</key>
+		<key>@MMK_R_da-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_k_ssadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_kadeva</key>
+		<key>@MMK_R_ka-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_madeva</key>
+		<key>@MMK_R_ma-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_nadeva</key>
+		<key>@MMK_R_na-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-40</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-55</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>-5</integer>
-		<key>@MMK_R_shadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>10</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_tthadeva</key>
+		<key>@MMK_R_ttha-deva</key>
 		<integer>10</integer>
 	</dict>
-	<key>@MMK_L_t_rdeva</key>
+	<key>@MMK_L_t-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
-		<integer>40</integer>
-		<key>@MMK_R_chadeva</key>
-		<integer>-40</integer>
-		<key>@MMK_R_ddadeva</key>
-		<integer>40</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_dhadeva</key>
-		<integer>-35</integer>
-		<key>@MMK_R_gadeva</key>
-		<integer>20</integer>
-		<key>@MMK_R_ghadeva</key>
-		<integer>-25</integer>
-		<key>@MMK_R_hadeva</key>
-		<integer>-30</integer>
-		<key>@MMK_R_jhadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_k_ssadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_ladeva</key>
-		<integer>20</integer>
-		<key>@MMK_R_madeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_nadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_nnadeva</key>
-		<integer>-21</integer>
-		<key>@MMK_R_nyadeva</key>
-		<integer>20</integer>
-		<key>@MMK_R_padeva</key>
-		<integer>-35</integer>
-		<key>@MMK_R_shadeva</key>
-		<integer>20</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
-		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_thadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_ttadeva</key>
-		<integer>-5</integer>
-	</dict>
-	<key>@MMK_L_t_tdeva</key>
-	<dict>
-		<key>@MMK_R_hadeva</key>
-		<integer>15</integer>
-		<key>@MMK_R_k_ssadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_radeva</key>
-		<integer>20</integer>
-		<key>@MMK_R_shadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
-		<integer>30</integer>
-	</dict>
-	<key>@MMK_L_tdeva</key>
-	<dict>
-		<key>@MMK_R_bhadeva</key>
-		<integer>20</integer>
-		<key>@MMK_R_ddhadeva</key>
-		<integer>-15</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>-35</integer>
-		<key>@MMK_R_gadeva</key>
+		<key>@MMK_R_ga-deva</key>
 		<integer>-15</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-45</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_jadeva</key>
+		<key>@MMK_R_ja-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_k_ssadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_khadeva</key>
+		<key>@MMK_R_kha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_lladeva</key>
+		<key>@MMK_R_lla-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_shadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ttadeva</key>
+		<key>@MMK_R_tta-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_tthadeva</key>
+		<key>@MMK_R_ttha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_yadeva</key>
+		<key>@MMK_R_ya-deva</key>
 		<integer>-60</integer>
 	</dict>
-	<key>@MMK_L_thdeva</key>
+	<key>@MMK_L_t_r-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
-		<integer>-60</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_chadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_dadeva</key>
-		<integer>10</integer>
-		<key>@MMK_R_ddadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_ddhadeva</key>
-		<integer>25</integer>
-		<key>@MMK_R_dhadeva</key>
-		<integer>-20</integer>
-		<key>@MMK_R_ghadeva</key>
-		<integer>-10</integer>
-		<key>@MMK_R_hadeva</key>
-		<integer>-25</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_ca-deva</key>
+		<integer>40</integer>
+		<key>@MMK_R_cha-deva</key>
+		<integer>-40</integer>
+		<key>@MMK_R_dda-deva</key>
+		<integer>40</integer>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_lladeva</key>
+		<key>@MMK_R_dha-deva</key>
+		<integer>-35</integer>
+		<key>@MMK_R_ga-deva</key>
+		<integer>20</integer>
+		<key>@MMK_R_gha-deva</key>
+		<integer>-25</integer>
+		<key>@MMK_R_ha-deva</key>
+		<integer>-30</integer>
+		<key>@MMK_R_jha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_k_ssa-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_la-deva</key>
+		<integer>20</integer>
+		<key>@MMK_R_ma-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_na-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_nna-deva</key>
+		<integer>-21</integer>
+		<key>@MMK_R_nya-deva</key>
+		<integer>20</integer>
+		<key>@MMK_R_pa-deva</key>
+		<integer>-35</integer>
+		<key>@MMK_R_sha-deva</key>
+		<integer>20</integer>
+		<key>@MMK_R_sha-deva.loclMAR</key>
+		<integer>30</integer>
+		<key>@MMK_R_ssa-deva</key>
+		<integer>-15</integer>
+		<key>@MMK_R_tha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_tta-deva</key>
+		<integer>-5</integer>
+	</dict>
+	<key>@MMK_L_t_t-deva</key>
+	<dict>
+		<key>@MMK_R_ha-deva</key>
 		<integer>15</integer>
-		<key>@MMK_R_nadeva</key>
-		<integer>-10</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_k_ssa-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_nyadeva</key>
-		<integer>-25</integer>
-		<key>@MMK_R_padeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_radeva</key>
-		<integer>-10</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>20</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_sha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
-		<integer>-30</integer>
-		<key>@MMK_R_ttadeva</key>
+	</dict>
+	<key>@MMK_L_th-deva</key>
+	<dict>
+		<key>@MMK_R_bha-deva</key>
+		<integer>-60</integer>
+		<key>@MMK_R_ca-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_cha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_da-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_tthadeva</key>
+		<key>@MMK_R_dda-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_ddha-deva</key>
+		<integer>25</integer>
+		<key>@MMK_R_dha-deva</key>
+		<integer>-20</integer>
+		<key>@MMK_R_gha-deva</key>
+		<integer>-10</integer>
+		<key>@MMK_R_ha-deva</key>
+		<integer>-25</integer>
+		<key>@MMK_R_jha-deva</key>
+		<integer>20</integer>
+		<key>@MMK_R_lla-deva</key>
+		<integer>15</integer>
+		<key>@MMK_R_na-deva</key>
+		<integer>-10</integer>
+		<key>@MMK_R_nna-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_nya-deva</key>
+		<integer>-25</integer>
+		<key>@MMK_R_pa-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_ra-deva</key>
+		<integer>-10</integer>
+		<key>@MMK_R_sha-deva.loclMAR</key>
+		<integer>20</integer>
+		<key>@MMK_R_ssa-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_t_ta-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_tha-deva</key>
+		<integer>-30</integer>
+		<key>@MMK_R_tta-deva</key>
+		<integer>10</integer>
+		<key>@MMK_R_ttha-deva</key>
 		<integer>20</integer>
 	</dict>
-	<key>@MMK_L_ydeva</key>
+	<key>@MMK_L_y-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
+		<key>@MMK_R_bha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
+		<key>@MMK_R_ca-deva</key>
 		<integer>-35</integer>
-		<key>@MMK_R_chadeva</key>
+		<key>@MMK_R_cha-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_dadeva</key>
+		<key>@MMK_R_da-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_ddadeva</key>
+		<key>@MMK_R_dda-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_ddhadeva</key>
+		<key>@MMK_R_ddha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_dhadeva</key>
+		<key>@MMK_R_dha-deva</key>
 		<integer>-20</integer>
-		<key>@MMK_R_ghadeva</key>
+		<key>@MMK_R_gha-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_hadeva</key>
+		<key>@MMK_R_ha-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_jhadeva</key>
+		<key>@MMK_R_jha-deva</key>
 		<integer>30</integer>
-		<key>@MMK_R_kadeva</key>
+		<key>@MMK_R_ka-deva</key>
 		<integer>5</integer>
-		<key>@MMK_R_lladeva</key>
+		<key>@MMK_R_lla-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_nnadeva</key>
+		<key>@MMK_R_nna-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_nyadeva</key>
+		<key>@MMK_R_nya-deva</key>
 		<integer>-25</integer>
-		<key>@MMK_R_padeva</key>
+		<key>@MMK_R_pa-deva</key>
 		<integer>-70</integer>
-		<key>@MMK_R_radeva</key>
+		<key>@MMK_R_ra-deva</key>
 		<integer>-10</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
+		<key>@MMK_R_sha-deva.loclMAR</key>
 		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
+		<key>@MMK_R_ssa-deva</key>
 		<integer>-35</integer>
-		<key>@MMK_R_t_tadeva</key>
+		<key>@MMK_R_t_ta-deva</key>
 		<integer>-50</integer>
-		<key>@MMK_R_thadeva</key>
+		<key>@MMK_R_tha-deva</key>
 		<integer>-30</integer>
-		<key>@MMK_R_ttadeva</key>
+		<key>@MMK_R_tta-deva</key>
 		<integer>10</integer>
-		<key>@MMK_R_tthadeva</key>
+		<key>@MMK_R_ttha-deva</key>
 		<integer>20</integer>
 	</dict>
 	<key>a</key>
@@ -1074,94 +1074,94 @@
 		<key>@MMK_R_v</key>
 		<integer>-13</integer>
 	</dict>
+	<key>kh-deva</key>
+	<dict>
+		<key>@MMK_R_ba-deva</key>
+		<integer>-10</integer>
+		<key>@MMK_R_bha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_ca-deva</key>
+		<integer>10</integer>
+		<key>@MMK_R_da-deva</key>
+		<integer>-5</integer>
+		<key>@MMK_R_dda-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_ddha-deva</key>
+		<integer>10</integer>
+		<key>@MMK_R_dha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_gha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_ha-deva</key>
+		<integer>5</integer>
+		<key>@MMK_R_ja-deva</key>
+		<integer>20</integer>
+		<key>@MMK_R_jha-deva</key>
+		<integer>-30</integer>
+		<key>@MMK_R_k_ssa-deva</key>
+		<integer>5</integer>
+		<key>@MMK_R_la-deva</key>
+		<integer>10</integer>
+		<key>@MMK_R_ma-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_na-deva</key>
+		<integer>20</integer>
+		<key>@MMK_R_nna-deva</key>
+		<integer>-30</integer>
+		<key>@MMK_R_nya-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_pa-deva</key>
+		<integer>-30</integer>
+		<key>@MMK_R_ra-deva</key>
+		<integer>10</integer>
+		<key>@MMK_R_sha-deva</key>
+		<integer>10</integer>
+		<key>@MMK_R_sha-deva.loclMAR</key>
+		<integer>30</integer>
+		<key>@MMK_R_ssa-deva</key>
+		<integer>-20</integer>
+		<key>@MMK_R_t_ta-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_tha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_tta-deva</key>
+		<integer>-40</integer>
+		<key>@MMK_R_ttha-deva</key>
+		<integer>-20</integer>
+		<key>@MMK_R_ya-deva</key>
+		<integer>10</integer>
+		<key>g_ra-deva</key>
+		<integer>20</integer>
+		<key>ta-deva</key>
+		<integer>-10</integer>
+	</dict>
+	<key>t_t-deva</key>
+	<dict>
+		<key>@MMK_R_bha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_dha-deva</key>
+		<integer>-40</integer>
+		<key>@MMK_R_ga-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_gha-deva</key>
+		<integer>-45</integer>
+		<key>@MMK_R_ja-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_kha-deva</key>
+		<integer>20</integer>
+		<key>@MMK_R_nya-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_tha-deva</key>
+		<integer>30</integer>
+		<key>@MMK_R_tta-deva</key>
+		<integer>10</integer>
+		<key>@MMK_R_ya-deva</key>
+		<integer>-60</integer>
+	</dict>
 	<key>u</key>
 	<dict>
 		<key>@MMK_R_n</key>
 		<integer>-6</integer>
-	</dict>
-	<key>uni0916094D</key>
-	<dict>
-		<key>@MMK_R_badeva</key>
-		<integer>-10</integer>
-		<key>@MMK_R_bhadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_cadeva</key>
-		<integer>10</integer>
-		<key>@MMK_R_dadeva</key>
-		<integer>-5</integer>
-		<key>@MMK_R_ddadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_ddhadeva</key>
-		<integer>10</integer>
-		<key>@MMK_R_dhadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_hadeva</key>
-		<integer>5</integer>
-		<key>@MMK_R_jadeva</key>
-		<integer>20</integer>
-		<key>@MMK_R_jhadeva</key>
-		<integer>-30</integer>
-		<key>@MMK_R_k_ssadeva</key>
-		<integer>5</integer>
-		<key>@MMK_R_ladeva</key>
-		<integer>10</integer>
-		<key>@MMK_R_madeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_nadeva</key>
-		<integer>20</integer>
-		<key>@MMK_R_nnadeva</key>
-		<integer>-30</integer>
-		<key>@MMK_R_nyadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_padeva</key>
-		<integer>-30</integer>
-		<key>@MMK_R_radeva</key>
-		<integer>10</integer>
-		<key>@MMK_R_shadeva</key>
-		<integer>10</integer>
-		<key>@MMK_R_shadeva.loclMAR</key>
-		<integer>30</integer>
-		<key>@MMK_R_ssadeva</key>
-		<integer>-20</integer>
-		<key>@MMK_R_t_tadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_ttadeva</key>
-		<integer>-40</integer>
-		<key>@MMK_R_tthadeva</key>
-		<integer>-20</integer>
-		<key>@MMK_R_yadeva</key>
-		<integer>10</integer>
-		<key>tadeva</key>
-		<integer>-10</integer>
-		<key>uni0917094D0930</key>
-		<integer>20</integer>
-	</dict>
-	<key>uni0924094D0924094D</key>
-	<dict>
-		<key>@MMK_R_bhadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_dhadeva</key>
-		<integer>-40</integer>
-		<key>@MMK_R_gadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_ghadeva</key>
-		<integer>-45</integer>
-		<key>@MMK_R_jadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_khadeva</key>
-		<integer>20</integer>
-		<key>@MMK_R_nyadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_thadeva</key>
-		<integer>30</integer>
-		<key>@MMK_R_ttadeva</key>
-		<integer>10</integer>
-		<key>@MMK_R_yadeva</key>
-		<integer>-60</integer>
 	</dict>
 </dict>
 </plist>

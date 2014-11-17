@@ -3,18 +3,18 @@
   <advance width="864"/>
   <unicode hex="221A"/>
   <outline>
-    <contour>
-      <point x="117" y="240" type="line"/>
-      <point x="181" y="290" type="line"/>
-      <point x="370" y="-173" type="line"/>
-      <point x="438" y="-173" type="line"/>
-      <point x="783" y="938" type="line"/>
-      <point x="722" y="938" type="line"/>
-      <point x="408" y="-97" type="line"/>
-      <point x="404" y="-97" type="line"/>
-      <point x="235" y="346" type="line"/>
-      <point x="171" y="346" type="line"/>
-      <point x="88" y="283" type="line"/>
-    </contour>
+	<contour>
+	  <point x="117" y="240" type="line"/>
+	  <point x="181" y="290" type="line"/>
+	  <point x="370" y="-173" type="line"/>
+	  <point x="438" y="-173" type="line"/>
+	  <point x="783" y="938" type="line"/>
+	  <point x="722" y="938" type="line"/>
+	  <point x="408" y="-97" type="line"/>
+	  <point x="404" y="-97" type="line"/>
+	  <point x="235" y="346" type="line"/>
+	  <point x="171" y="346" type="line"/>
+	  <point x="88" y="283" type="line"/>
+	</contour>
   </outline>
 </glyph>
