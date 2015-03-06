@@ -2,12 +2,15 @@
 <glyph name="aiMatra_anusvara-deva" format="1">
   <advance width="0"/>
   <outline>
-	<contour>
-	  <point x="-118" y="784" type="line"/>
-	  <point x="-55" y="721" type="line"/>
-	  <point x="8" y="784" type="line"/>
-	  <point x="-55" y="847" type="line"/>
-	</contour>
-	<component base="aiMatra-deva"/>
+    <contour>
+      <point x="-118" y="784" type="line"/>
+      <point x="-55" y="721" type="line"/>
+      <point x="8" y="784" type="line"/>
+      <point x="-55" y="847" type="line"/>
+    </contour>
+    <component base="aiMatra-deva"/>
+    <contour>
+      <point x="-143" y="634" type="move" name="_top"/>
+    </contour>
   </outline>
 </glyph>

@@ -3,7 +3,7 @@
   <advance width="573"/>
   <unicode hex="095D"/>
   <outline>
-	<component base="ddha-deva"/>
-	<component base="nukta-deva" xOffset="492" yOffset="-9"/>
+    <component base="ddha-deva"/>
+    <component base="nukta-deva" xOffset="492" yOffset="-9"/>
   </outline>
 </glyph>

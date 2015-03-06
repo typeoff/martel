@@ -2,12 +2,12 @@
 <glyph name="khh-deva" format="1">
   <advance width="559"/>
   <outline>
-	<contour>
-	  <point x="75" y="0" type="line"/>
-	  <point x="138" y="-63" type="line"/>
-	  <point x="201" y="0" type="line"/>
-	  <point x="138" y="63" type="line"/>
-	</contour>
-	<component base="kh-deva"/>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="138" y="-63" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="138" y="63" type="line"/>
+    </contour>
+    <component base="kh-deva"/>
   </outline>
 </glyph>

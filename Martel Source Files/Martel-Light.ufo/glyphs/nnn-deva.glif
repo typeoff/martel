@@ -2,36 +2,36 @@
 <glyph name="nnn-deva" format="1">
   <advance width="319"/>
   <outline>
-	<contour>
-	  <point x="107" y="382"/>
-	  <point x="46" y="378"/>
-	  <point x="46" y="317" type="curve" smooth="yes"/>
-	  <point x="46" y="251"/>
-	  <point x="112" y="227"/>
-	  <point x="143" y="227" type="curve" smooth="yes"/>
-	  <point x="155" y="227"/>
-	  <point x="164" y="228"/>
-	  <point x="171" y="231" type="curve"/>
-	  <point x="156" y="332" type="line"/>
-	  <point x="421" y="333" type="line"/>
-	  <point x="436" y="371" type="line"/>
-	  <point x="348" y="376"/>
-	  <point x="235" y="382"/>
-	  <point x="140" y="382" type="curve" smooth="yes"/>
-	</contour>
-	<contour>
-	  <point x="150" y="70" type="line"/>
-	  <point x="213" y="7" type="line"/>
-	  <point x="276" y="70" type="line"/>
-	  <point x="213" y="133" type="line"/>
-	</contour>
-	<contour>
-	  <point x="-29" y="634" type="line"/>
-	  <point x="-29" y="624" type="line"/>
-	  <point x="-12" y="590" type="line"/>
-	  <point x="338" y="590" type="line"/>
-	  <point x="338" y="601" type="line"/>
-	  <point x="319" y="634" type="line"/>
-	</contour>
+    <contour>
+      <point x="107" y="382"/>
+      <point x="46" y="378"/>
+      <point x="46" y="317" type="curve" smooth="yes"/>
+      <point x="46" y="251"/>
+      <point x="112" y="227"/>
+      <point x="143" y="227" type="curve" smooth="yes"/>
+      <point x="155" y="227"/>
+      <point x="164" y="228"/>
+      <point x="171" y="231" type="curve"/>
+      <point x="156" y="332" type="line"/>
+      <point x="421" y="333" type="line"/>
+      <point x="436" y="371" type="line"/>
+      <point x="348" y="376"/>
+      <point x="235" y="382"/>
+      <point x="140" y="382" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="150" y="70" type="line"/>
+      <point x="213" y="7" type="line"/>
+      <point x="276" y="70" type="line"/>
+      <point x="213" y="133" type="line"/>
+    </contour>
+    <contour>
+      <point x="-29" y="634" type="line"/>
+      <point x="-29" y="624" type="line"/>
+      <point x="-12" y="590" type="line"/>
+      <point x="338" y="590" type="line"/>
+      <point x="338" y="601" type="line"/>
+      <point x="319" y="634" type="line"/>
+    </contour>
   </outline>
 </glyph>

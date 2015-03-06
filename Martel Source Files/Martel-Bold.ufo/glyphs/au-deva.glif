@@ -3,7 +3,16 @@
   <advance width="1182"/>
   <unicode hex="0914"/>
   <outline>
-	<component base="aa-deva"/>
-	<component base="aiMatra-deva" xOffset="1182"/>
+    <component base="aa-deva"/>
+    <component base="aiMatra-deva" xOffset="1178" yOffset="19"/>
+    <contour>
+      <point x="28" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="1025" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1025" y="669" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

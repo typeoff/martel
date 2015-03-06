@@ -3,13 +3,13 @@
   <advance width="788"/>
   <unicode hex="0959"/>
   <outline>
-	<component base="kha-deva"/>
-	<component base="nukta-deva" xOffset="291" yOffset="128"/>
-	<contour>
-	  <point x="647" y="634" type="move" name="top"/>
-	</contour>
-	<contour>
-	  <point x="647" y="0" type="move" name="bottom"/>
-	</contour>
+    <component base="kha-deva"/>
+    <component base="nukta-deva" xOffset="291" yOffset="128"/>
+    <contour>
+      <point x="647" y="634" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="647" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

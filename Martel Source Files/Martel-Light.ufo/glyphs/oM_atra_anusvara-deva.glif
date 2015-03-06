@@ -2,7 +2,22 @@
 <glyph name="oMatra_anusvara-deva" format="1">
   <advance width="287"/>
   <outline>
-	<component base="oMatra-deva"/>
-	<component base="anusvara-deva" xOffset="374"/>
+    <component base="oMatra-deva"/>
+    <component base="anusvara-deva" xOffset="374"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>anusvara-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

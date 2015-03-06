@@ -212,15 +212,15 @@
 		<integer>30</integer>
 		<key>p_ta-deva</key>
 		<integer>10</integer>
-		<key>sh_r_ca-deva</key>
+		<key>sh_ca-deva</key>
 		<integer>20</integer>
-		<key>sh_r_la-deva</key>
+		<key>sh_la-deva</key>
 		<integer>30</integer>
-		<key>sh_r_na-deva</key>
-		<integer>30</integer>
-		<key>sh_r_va-deva</key>
+		<key>sh_na-deva</key>
 		<integer>30</integer>
 		<key>sh_ra-deva</key>
+		<integer>30</integer>
+		<key>sh_va-deva</key>
 		<integer>30</integer>
 		<key>ss_tt_ra-deva</key>
 		<integer>30</integer>

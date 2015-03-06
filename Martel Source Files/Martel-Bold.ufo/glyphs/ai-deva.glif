@@ -3,7 +3,22 @@
   <advance width="641"/>
   <unicode hex="0910"/>
   <outline>
-	<component base="e-deva"/>
-	<component base="eMatra-deva" xOffset="646"/>
+    <component base="e-deva"/>
+    <component base="eMatra-deva" xOffset="646"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>eMatra-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

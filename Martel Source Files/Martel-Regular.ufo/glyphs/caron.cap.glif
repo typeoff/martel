@@ -2,14 +2,14 @@
 <glyph name="caron.cap" format="1">
   <advance width="346"/>
   <outline>
-	<contour>
-	  <point x="216" y="789" type="line"/>
-	  <point x="308" y="789" type="line"/>
-	  <point x="422" y="915" type="line"/>
-	  <point x="384" y="938" type="line"/>
-	  <point x="262" y="855" type="line"/>
-	  <point x="143" y="938" type="line"/>
-	  <point x="100" y="914" type="line"/>
-	</contour>
+    <contour>
+      <point x="216" y="789" type="line"/>
+      <point x="308" y="789" type="line"/>
+      <point x="422" y="915" type="line"/>
+      <point x="384" y="938" type="line"/>
+      <point x="262" y="855" type="line"/>
+      <point x="143" y="938" type="line"/>
+      <point x="100" y="914" type="line"/>
+    </contour>
   </outline>
 </glyph>

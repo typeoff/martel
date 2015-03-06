@@ -7,22 +7,25 @@
 	<key>capHeight</key>
 	<integer>758</integer>
 	<key>copyright</key>
-	<string>Copyright © 2014 by Dan Reynolds. All rights reserved.</string>
+	<string>Copyright (c) 2015 Dan Reynolds. </string>
 	<key>descender</key>
 	<integer>-500</integer>
 	<key>familyName</key>
 	<string>Martel</string>
+	<key>fsType</key>
+	<array>
+	</array>
 	<key>license</key>
 	<string>This Font Software is licensed under the SIL Open Font License
 Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/09/11 15:28:21</string>
+	<string>2015/03/06 06:16:46</string>
 	<key>openTypeNameDesigner</key>
 	<string>Dan Reynolds</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>http://www.typeoff.de</string>
+	<string>https://github.com/typeoff/martel</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Dan Reynolds</string>
 	<key>openTypeNameManufacturerURL</key>
@@ -39,28 +42,35 @@ Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
 	<array>
 		<integer>-15</integer>
 		<integer>0</integer>
-		<integer>500</integer>
-		<integer>515</integer>
+		<integer>546</integer>
+		<integer>564</integer>
 		<integer>634</integer>
-		<integer>649</integer>
+		<integer>652</integer>
+		<integer>758</integer>
+		<integer>766</integer>
 		<integer>1046</integer>
-		<integer>1061</integer>
+		<integer>1062</integer>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-515</integer>
+		<integer>-516</integer>
 		<integer>-500</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>50</integer>
+		<integer>41</integer>
+		<integer>45</integer>
+		<integer>41</integer>
+		<integer>55</integer>
 		<integer>44</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>54</integer>
-		<integer>50</integer>
+		<integer>78</integer>
 		<integer>72</integer>
+		<integer>75</integer>
+		<integer>71</integer>
+		<integer>55</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
@@ -73,7 +83,7 @@ Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>546</integer>
 </dict>

@@ -3,10 +3,25 @@
   <advance width="588"/>
   <unicode hex="090D"/>
   <outline>
-	<component base="e-deva"/>
-	<component base="eCandraMatra-deva" xOffset="423"/>
-	<contour>
-	  <point x="276" y="783" type="move" name="top"/>
-	</contour>
+    <component base="e-deva"/>
+    <component base="eCandraMatra-deva" xOffset="423"/>
+    <contour>
+      <point x="276" y="783" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>eCandraMatra-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

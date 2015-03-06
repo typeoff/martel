@@ -2,7 +2,7 @@
 <glyph name="p_la-deva" format="1">
   <advance width="1154"/>
   <outline>
-	<component base="p-deva"/>
-	<component base="la-deva" xOffset="339"/>
+    <component base="p-deva"/>
+    <component base="la-deva" xOffset="339"/>
   </outline>
 </glyph>

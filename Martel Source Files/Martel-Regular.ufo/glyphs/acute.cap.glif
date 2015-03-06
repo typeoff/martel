@@ -2,13 +2,13 @@
 <glyph name="acute.cap" format="1">
   <advance width="519"/>
   <outline>
-	<contour>
-	  <point x="253" y="785" type="line"/>
-	  <point x="313" y="795"/>
-	  <point x="387" y="826"/>
-	  <point x="448" y="865" type="curve"/>
-	  <point x="376" y="938" type="line"/>
-	  <point x="227" y="811" type="line"/>
-	</contour>
+    <contour>
+      <point x="253" y="785" type="line"/>
+      <point x="313" y="795"/>
+      <point x="387" y="826"/>
+      <point x="448" y="865" type="curve"/>
+      <point x="376" y="938" type="line"/>
+      <point x="227" y="811" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -2,13 +2,13 @@
 <glyph name="grave.cap" format="1">
   <advance width="519"/>
   <outline>
-	<contour>
-	  <point x="329" y="830" type="line"/>
-	  <point x="147" y="938" type="line"/>
-	  <point x="53" y="844" type="line"/>
-	  <point x="96" y="809"/>
-	  <point x="245" y="776"/>
-	  <point x="280" y="778" type="curve"/>
-	</contour>
+    <contour>
+      <point x="329" y="830" type="line"/>
+      <point x="147" y="938" type="line"/>
+      <point x="53" y="844" type="line"/>
+      <point x="96" y="809"/>
+      <point x="245" y="776"/>
+      <point x="280" y="778" type="curve"/>
+    </contour>
   </outline>
 </glyph>

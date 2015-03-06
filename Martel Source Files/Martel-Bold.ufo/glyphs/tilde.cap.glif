@@ -2,27 +2,27 @@
 <glyph name="tilde.cap" format="1">
   <advance width="519"/>
   <outline>
-	<contour>
-	  <point x="93" y="798" type="line"/>
-	  <point x="116" y="817"/>
-	  <point x="146" y="833"/>
-	  <point x="175" y="833" type="curve" smooth="yes"/>
-	  <point x="219" y="833"/>
-	  <point x="257" y="783"/>
-	  <point x="322" y="783" type="curve" smooth="yes"/>
-	  <point x="374" y="783"/>
-	  <point x="447" y="823"/>
-	  <point x="469" y="876" type="curve"/>
-	  <point x="425" y="923" type="line"/>
-	  <point x="404" y="904"/>
-	  <point x="379" y="889"/>
-	  <point x="344" y="889" type="curve" smooth="yes"/>
-	  <point x="304" y="889"/>
-	  <point x="263" y="938"/>
-	  <point x="201" y="938" type="curve" smooth="yes"/>
-	  <point x="152" y="938"/>
-	  <point x="69" y="888"/>
-	  <point x="51" y="836" type="curve"/>
-	</contour>
+    <contour>
+      <point x="93" y="798" type="line"/>
+      <point x="116" y="817"/>
+      <point x="146" y="833"/>
+      <point x="175" y="833" type="curve" smooth="yes"/>
+      <point x="219" y="833"/>
+      <point x="257" y="783"/>
+      <point x="322" y="783" type="curve" smooth="yes"/>
+      <point x="374" y="783"/>
+      <point x="447" y="823"/>
+      <point x="469" y="876" type="curve"/>
+      <point x="425" y="923" type="line"/>
+      <point x="404" y="904"/>
+      <point x="379" y="889"/>
+      <point x="344" y="889" type="curve" smooth="yes"/>
+      <point x="304" y="889"/>
+      <point x="263" y="938"/>
+      <point x="201" y="938" type="curve" smooth="yes"/>
+      <point x="152" y="938"/>
+      <point x="69" y="888"/>
+      <point x="51" y="836" type="curve"/>
+    </contour>
   </outline>
 </glyph>

@@ -2,7 +2,28 @@
 <glyph name="iMatra_anusvara-deva" format="1">
   <advance width="313"/>
   <outline>
-	<component base="iMatra-deva"/>
-	<component base="anusvara-deva" xOffset="975" yOffset="8"/>
+    <component base="iMatra-deva"/>
+    <component base="anusvara-deva" xOffset="975" yOffset="8"/>
+    <contour>
+      <point x="758" y="727" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="741" y="710" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>anusvara-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

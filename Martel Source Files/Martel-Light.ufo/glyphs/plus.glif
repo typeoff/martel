@@ -3,27 +3,27 @@
   <advance width="614"/>
   <unicode hex="002B"/>
   <outline>
-	<contour>
-	  <point x="277" y="157" type="line"/>
-	  <point x="336" y="157" type="line"/>
-	  <point x="336" y="283" type="line"/>
-	  <point x="332" y="364" type="line"/>
-	  <point x="402" y="360" type="line"/>
-	  <point x="530" y="360" type="line"/>
-	  <point x="530" y="418" type="line"/>
-	  <point x="402" y="418" type="line"/>
-	  <point x="332" y="413" type="line"/>
-	  <point x="336" y="494" type="line"/>
-	  <point x="336" y="615" type="line"/>
-	  <point x="277" y="615" type="line"/>
-	  <point x="277" y="494" type="line"/>
-	  <point x="281" y="413" type="line"/>
-	  <point x="202" y="418" type="line"/>
-	  <point x="84" y="418" type="line"/>
-	  <point x="84" y="360" type="line"/>
-	  <point x="202" y="360" type="line"/>
-	  <point x="281" y="363" type="line"/>
-	  <point x="277" y="283" type="line"/>
-	</contour>
+    <contour>
+      <point x="277" y="157" type="line"/>
+      <point x="336" y="157" type="line"/>
+      <point x="336" y="283" type="line"/>
+      <point x="332" y="364" type="line"/>
+      <point x="402" y="360" type="line"/>
+      <point x="530" y="360" type="line"/>
+      <point x="530" y="418" type="line"/>
+      <point x="402" y="418" type="line"/>
+      <point x="332" y="413" type="line"/>
+      <point x="336" y="494" type="line"/>
+      <point x="336" y="615" type="line"/>
+      <point x="277" y="615" type="line"/>
+      <point x="277" y="494" type="line"/>
+      <point x="281" y="413" type="line"/>
+      <point x="202" y="418" type="line"/>
+      <point x="84" y="418" type="line"/>
+      <point x="84" y="360" type="line"/>
+      <point x="202" y="360" type="line"/>
+      <point x="281" y="363" type="line"/>
+      <point x="277" y="283" type="line"/>
+    </contour>
   </outline>
 </glyph>

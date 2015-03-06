@@ -3,24 +3,24 @@
   <advance width="745"/>
   <unicode hex="0979"/>
   <outline>
-	<contour>
-	  <point x="292" y="-70" type="line"/>
-	  <point x="376" y="-154" type="line"/>
-	  <point x="459" y="-70" type="line"/>
-	  <point x="376" y="13" type="line"/>
-	</contour>
-	<contour>
-	  <point x="185" y="-177" type="line"/>
-	  <point x="269" y="-261" type="line"/>
-	  <point x="352" y="-177" type="line"/>
-	  <point x="269" y="-94" type="line"/>
-	</contour>
-	<contour>
-	  <point x="79" y="-70" type="line"/>
-	  <point x="163" y="-154" type="line"/>
-	  <point x="246" y="-70" type="line"/>
-	  <point x="163" y="13" type="line"/>
-	</contour>
-	<component base="ja-deva"/>
+    <contour>
+      <point x="292" y="-70" type="line"/>
+      <point x="376" y="-154" type="line"/>
+      <point x="459" y="-70" type="line"/>
+      <point x="376" y="13" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="-177" type="line"/>
+      <point x="269" y="-261" type="line"/>
+      <point x="352" y="-177" type="line"/>
+      <point x="269" y="-94" type="line"/>
+    </contour>
+    <contour>
+      <point x="79" y="-70" type="line"/>
+      <point x="163" y="-154" type="line"/>
+      <point x="246" y="-70" type="line"/>
+      <point x="163" y="13" type="line"/>
+    </contour>
+    <component base="ja-deva"/>
   </outline>
 </glyph>

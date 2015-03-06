@@ -2,14 +2,20 @@
 <glyph name="ddh_ra-deva" format="1">
   <advance width="573"/>
   <outline>
-	<contour>
-	  <point x="34" y="-178" type="line"/>
-	  <point x="117" y="-256" type="line"/>
-	  <point x="298" y="-114" type="line"/>
-	  <point x="442" y="-259" type="line"/>
-	  <point x="501" y="-211" type="line"/>
-	  <point x="295" y="-12" type="line"/>
-	</contour>
-	<component base="ddha-deva"/>
+    <contour>
+      <point x="34" y="-178" type="line"/>
+      <point x="117" y="-256" type="line"/>
+      <point x="298" y="-114" type="line"/>
+      <point x="442" y="-259" type="line"/>
+      <point x="501" y="-211" type="line"/>
+      <point x="295" y="-12" type="line"/>
+    </contour>
+    <component base="ddha-deva"/>
+    <contour>
+      <point x="257" y="-315" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="368" y="-190" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

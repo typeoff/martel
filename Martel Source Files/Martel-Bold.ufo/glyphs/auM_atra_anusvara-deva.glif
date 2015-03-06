@@ -2,7 +2,22 @@
 <glyph name="auMatra_anusvara-deva" format="1">
   <advance width="307"/>
   <outline>
-	<component base="auMatra-deva"/>
-	<component base="anusvara-deva" xOffset="469" yOffset="19"/>
+    <component base="auMatra-deva"/>
+    <component base="anusvara-deva" xOffset="445"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>auMatra-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

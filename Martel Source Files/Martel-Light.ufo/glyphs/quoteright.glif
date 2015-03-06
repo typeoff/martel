@@ -3,23 +3,23 @@
   <advance width="378"/>
   <unicode hex="2019"/>
   <outline>
-	<contour>
-	  <point x="104" y="471" type="line"/>
-	  <point x="175" y="500"/>
-	  <point x="256" y="580"/>
-	  <point x="255" y="689" type="curve"/>
-	  <point x="255" y="746"/>
-	  <point x="224" y="822"/>
-	  <point x="154" y="839" type="curve"/>
-	  <point x="115" y="789" type="line"/>
-	  <point x="115" y="771" type="line"/>
-	  <point x="151" y="765"/>
-	  <point x="187" y="720"/>
-	  <point x="187" y="661" type="curve" smooth="yes"/>
-	  <point x="187" y="586"/>
-	  <point x="133" y="521"/>
-	  <point x="87" y="505" type="curve"/>
-	  <point x="87" y="493" type="line"/>
-	</contour>
+    <contour>
+      <point x="104" y="471" type="line"/>
+      <point x="175" y="500"/>
+      <point x="256" y="580"/>
+      <point x="255" y="689" type="curve"/>
+      <point x="255" y="746"/>
+      <point x="224" y="822"/>
+      <point x="154" y="839" type="curve"/>
+      <point x="115" y="789" type="line"/>
+      <point x="115" y="771" type="line"/>
+      <point x="151" y="765"/>
+      <point x="187" y="720"/>
+      <point x="187" y="661" type="curve" smooth="yes"/>
+      <point x="187" y="586"/>
+      <point x="133" y="521"/>
+      <point x="87" y="505" type="curve"/>
+      <point x="87" y="493" type="line"/>
+    </contour>
   </outline>
 </glyph>

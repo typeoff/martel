@@ -2,23 +2,20 @@
 <glyph name="ss_tth_ra-deva" format="1">
   <advance width="560"/>
   <outline>
-	<contour>
-	  <point x="270" y="-53" type="line"/>
-	  <point x="418" y="-201" type="line"/>
-	  <point x="452" y="-175" type="line"/>
-	  <point x="273" y="-1" type="line"/>
-	  <point x="39" y="-149" type="line"/>
-	  <point x="84" y="-189" type="line"/>
-	</contour>
-	<component base="ss_ttha-deva"/>
-	<contour>
-	  <point x="264" y="-248" type="move" name="nukta"/>
-	</contour>
-	<contour>
-	  <point x="269" y="-155" type="move" name="bottom"/>
-	</contour>
-	<contour>
-	  <point x="432" y="634" type="move" name="top"/>
-	</contour>
+    <contour>
+      <point x="270" y="-53" type="line"/>
+      <point x="418" y="-201" type="line"/>
+      <point x="452" y="-175" type="line"/>
+      <point x="273" y="-1" type="line"/>
+      <point x="39" y="-149" type="line"/>
+      <point x="84" y="-189" type="line"/>
+    </contour>
+    <component base="ss_ttha-deva"/>
+    <contour>
+      <point x="264" y="-248" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="269" y="-155" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

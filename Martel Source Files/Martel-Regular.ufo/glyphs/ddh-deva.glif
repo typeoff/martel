@@ -2,7 +2,7 @@
 <glyph name="ddh-deva" format="1">
   <advance width="573"/>
   <outline>
-	<component base="ddha-deva"/>
-	<component base="halant-deva" xOffset="492" yOffset="-16"/>
+    <component base="ddha-deva"/>
+    <component base="halant-deva" xOffset="492" yOffset="-16"/>
   </outline>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="z-deva" format="1">
   <advance width="479"/>
   <outline>
-	<component base="j-deva"/>
-	<component base="nukta-deva" xOffset="263" yOffset="158"/>
+    <component base="j-deva"/>
+    <component base="nukta-deva" xOffset="263" yOffset="158"/>
   </outline>
 </glyph>

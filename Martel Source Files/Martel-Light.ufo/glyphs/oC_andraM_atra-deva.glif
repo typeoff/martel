@@ -3,10 +3,10 @@
   <advance width="287"/>
   <unicode hex="0949"/>
   <outline>
-	<component base="aaMatra-deva"/>
-	<component base="eCandraMatra-deva" xOffset="297"/>
-	<contour>
-	  <point x="144" y="760" type="move" name="top"/>
-	</contour>
+    <component base="aaMatra-deva"/>
+    <component base="eCandraMatra-deva" xOffset="297"/>
+    <contour>
+      <point x="144" y="760" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

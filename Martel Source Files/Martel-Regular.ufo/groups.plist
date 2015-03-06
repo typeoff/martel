@@ -306,9 +306,9 @@
 		<string>qa-deva</string>
 		<string>k_ka-deva</string>
 		<string>k_ra-deva</string>
-		<string>k_r-deva</string>
 		<string>k_la-deva</string>
 		<string>k_va-deva</string>
+		<string>k_r-deva</string>
 		<string>k-deva</string>
 		<string>q-deva</string>
 	</array>
@@ -380,8 +380,8 @@
 		<string>pha-deva</string>
 		<string>fa-deva</string>
 		<string>p_ra-deva</string>
-		<string>p_r-deva</string>
 		<string>p_la-deva</string>
+		<string>p_r-deva</string>
 		<string>ph_ra-deva</string>
 		<string>ph_la-deva</string>
 		<string>f_ra-deva</string>

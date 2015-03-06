@@ -3,14 +3,14 @@
   <advance width="0"/>
   <unicode hex="093C"/>
   <outline>
-	<contour>
-	  <point x="-216" y="-128" type="line"/>
-	  <point x="-153" y="-191" type="line"/>
-	  <point x="-90" y="-128" type="line"/>
-	  <point x="-153" y="-65" type="line"/>
-	</contour>
-	<contour>
-	  <point x="-153" y="-128" type="move" name="_nukta"/>
-	</contour>
+    <contour>
+      <point x="-216" y="-128" type="line"/>
+      <point x="-153" y="-191" type="line"/>
+      <point x="-90" y="-128" type="line"/>
+      <point x="-153" y="-65" type="line"/>
+    </contour>
+    <contour>
+      <point x="-153" y="-128" type="move" name="_nukta"/>
+    </contour>
   </outline>
 </glyph>

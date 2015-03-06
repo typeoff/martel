@@ -2,7 +2,7 @@
 <glyph name="k_ka-deva" format="1">
   <advance width="1511"/>
   <outline>
-	<component base="k-deva"/>
-	<component base="ka-deva" xOffset="636"/>
+    <component base="k-deva"/>
+    <component base="ka-deva" xOffset="636"/>
   </outline>
 </glyph>

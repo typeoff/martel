@@ -2,22 +2,22 @@
 <glyph name="dd_r-deva" format="1">
   <advance width="551"/>
   <outline>
-	<contour>
-	  <point x="582" y="-351" type="line"/>
-	  <point x="452" y="-228"/>
-	  <point x="307" y="-153"/>
-	  <point x="240" y="-153" type="curve" smooth="yes"/>
-	  <point x="202" y="-153"/>
-	  <point x="178" y="-173"/>
-	  <point x="178" y="-207" type="curve" smooth="yes"/>
-	  <point x="178" y="-230"/>
-	  <point x="189" y="-252"/>
-	  <point x="203" y="-263" type="curve"/>
-	  <point x="331" y="-224" type="line"/>
-	  <point x="408" y="-251"/>
-	  <point x="468" y="-284"/>
-	  <point x="562" y="-370" type="curve"/>
-	</contour>
-	<component base="dd_ra-deva"/>
+    <contour>
+      <point x="582" y="-351" type="line"/>
+      <point x="452" y="-228"/>
+      <point x="307" y="-153"/>
+      <point x="240" y="-153" type="curve" smooth="yes"/>
+      <point x="202" y="-153"/>
+      <point x="178" y="-173"/>
+      <point x="178" y="-207" type="curve" smooth="yes"/>
+      <point x="178" y="-230"/>
+      <point x="189" y="-252"/>
+      <point x="203" y="-263" type="curve"/>
+      <point x="331" y="-224" type="line"/>
+      <point x="408" y="-251"/>
+      <point x="468" y="-284"/>
+      <point x="562" y="-370" type="curve"/>
+    </contour>
+    <component base="dd_ra-deva"/>
   </outline>
 </glyph>

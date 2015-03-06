@@ -2,7 +2,7 @@
 <glyph name="auMatra_anusvara-deva" format="1">
   <advance width="287"/>
   <outline>
-	<component base="auMatra-deva"/>
-	<component base="anusvara-deva" xOffset="390"/>
+    <component base="auMatra-deva"/>
+    <component base="anusvara-deva" xOffset="390"/>
   </outline>
 </glyph>

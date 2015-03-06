@@ -3,7 +3,7 @@
   <advance width="569"/>
   <unicode hex="0910"/>
   <outline>
-	<component base="e-deva"/>
-	<component base="eMatra-deva" xOffset="601"/>
+    <component base="e-deva"/>
+    <component base="eMatra-deva" xOffset="601"/>
   </outline>
 </glyph>

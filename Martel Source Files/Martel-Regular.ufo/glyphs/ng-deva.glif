@@ -2,7 +2,7 @@
 <glyph name="ng-deva" format="1">
   <advance width="713"/>
   <outline>
-	<component base="nga-deva"/>
-	<component base="halant-deva" xOffset="524" yOffset="-16"/>
+    <component base="nga-deva"/>
+    <component base="halant-deva" xOffset="524" yOffset="-16"/>
   </outline>
 </glyph>

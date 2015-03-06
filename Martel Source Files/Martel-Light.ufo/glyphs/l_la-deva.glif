@@ -2,16 +2,7 @@
 <glyph name="l_la-deva" format="1">
   <advance width="1207"/>
   <outline>
-	<component base="l-deva"/>
-	<component base="la-deva" xOffset="509"/>
-	<contour>
-	  <point x="33" y="0" type="move" name="nukta"/>
-	</contour>
-	<contour>
-	  <point x="1064" y="0" type="move" name="bottom"/>
-	</contour>
-	<contour>
-	  <point x="1064" y="634" type="move" name="top"/>
-	</contour>
+    <component base="l-deva"/>
+    <component base="la-deva" xOffset="509"/>
   </outline>
 </glyph>

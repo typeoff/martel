@@ -3,18 +3,12 @@
   <advance width="835"/>
   <unicode hex="0934"/>
   <outline>
-	<contour>
-	  <point x="335" y="-82" type="line"/>
-	  <point x="447" y="-194" type="line"/>
-	  <point x="558" y="-82" type="line"/>
-	  <point x="447" y="29" type="line"/>
-	</contour>
-	<component base="lla-deva"/>
-	<contour>
-	  <point x="614" y="669" type="move" name="top"/>
-	</contour>
-	<contour>
-	  <point x="614" y="0" type="move" name="bottom"/>
-	</contour>
+    <contour>
+      <point x="335" y="-82" type="line"/>
+      <point x="447" y="-194" type="line"/>
+      <point x="558" y="-82" type="line"/>
+      <point x="447" y="29" type="line"/>
+    </contour>
+    <component base="lla-deva"/>
   </outline>
 </glyph>

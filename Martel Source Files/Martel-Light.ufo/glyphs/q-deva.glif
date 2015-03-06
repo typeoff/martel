@@ -2,12 +2,12 @@
 <glyph name="q-deva" format="1">
   <advance width="590"/>
   <outline>
-	<contour>
-	  <point x="145" y="0" type="line"/>
-	  <point x="208" y="-63" type="line"/>
-	  <point x="271" y="0" type="line"/>
-	  <point x="208" y="63" type="line"/>
-	</contour>
-	<component base="k-deva"/>
+    <contour>
+      <point x="145" y="0" type="line"/>
+      <point x="208" y="-63" type="line"/>
+      <point x="271" y="0" type="line"/>
+      <point x="208" y="63" type="line"/>
+    </contour>
+    <component base="k-deva"/>
   </outline>
 </glyph>

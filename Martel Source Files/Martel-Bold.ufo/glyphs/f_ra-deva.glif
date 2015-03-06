@@ -2,7 +2,10 @@
 <glyph name="f_ra-deva" format="1">
   <advance width="862"/>
   <outline>
-	<component base="ph_ra-deva"/>
-	<component base="nukta-deva" xOffset="443" yOffset="56"/>
+    <component base="ph_ra-deva"/>
+    <component base="nukta-deva" xOffset="443" yOffset="56"/>
+    <contour>
+      <point x="446" y="669" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

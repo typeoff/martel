@@ -3,21 +3,21 @@
   <advance width="494"/>
   <unicode hex="0028"/>
   <outline>
-	<contour>
-	  <point x="423" y="-116" type="line"/>
-	  <point x="305" y="-18"/>
-	  <point x="235" y="186"/>
-	  <point x="241" y="375" type="curve" smooth="yes"/>
-	  <point x="246" y="548"/>
-	  <point x="295" y="727"/>
-	  <point x="409" y="811" type="curve"/>
-	  <point x="339" y="866" type="line"/>
-	  <point x="183" y="769"/>
-	  <point x="78" y="559"/>
-	  <point x="78" y="348" type="curve" smooth="yes"/>
-	  <point x="78" y="122"/>
-	  <point x="163" y="-69"/>
-	  <point x="349" y="-172" type="curve"/>
-	</contour>
+    <contour>
+      <point x="423" y="-116" type="line"/>
+      <point x="305" y="-18"/>
+      <point x="235" y="186"/>
+      <point x="241" y="375" type="curve" smooth="yes"/>
+      <point x="246" y="548"/>
+      <point x="295" y="727"/>
+      <point x="409" y="811" type="curve"/>
+      <point x="339" y="866" type="line"/>
+      <point x="183" y="769"/>
+      <point x="78" y="559"/>
+      <point x="78" y="348" type="curve" smooth="yes"/>
+      <point x="78" y="122"/>
+      <point x="163" y="-69"/>
+      <point x="349" y="-172" type="curve"/>
+    </contour>
   </outline>
 </glyph>

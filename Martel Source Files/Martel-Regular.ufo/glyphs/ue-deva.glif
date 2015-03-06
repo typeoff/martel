@@ -3,7 +3,22 @@
   <advance width="843"/>
   <unicode hex="0976"/>
   <outline>
-	<component base="a-deva"/>
-	<component base="uni0956" xOffset="641"/>
+    <component base="a-deva"/>
+    <component base="uni0956" xOffset="641"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0956</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

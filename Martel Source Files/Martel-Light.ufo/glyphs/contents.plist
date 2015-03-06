@@ -1204,20 +1204,20 @@
 	<string>sh-deva.glif</string>
 	<key>sh-deva.loclMAR</key>
 	<string>sh-deva.loclM_A_R_.glif</string>
+	<key>sh_ca-deva</key>
+	<string>sh_ca-deva.glif</string>
+	<key>sh_la-deva</key>
+	<string>sh_la-deva.glif</string>
+	<key>sh_na-deva</key>
+	<string>sh_na-deva.glif</string>
 	<key>sh_r-deva</key>
 	<string>sh_r-deva.glif</string>
-	<key>sh_r_ca-deva</key>
-	<string>sh_r_ca-deva.glif</string>
-	<key>sh_r_la-deva</key>
-	<string>sh_r_la-deva.glif</string>
-	<key>sh_r_na-deva</key>
-	<string>sh_r_na-deva.glif</string>
-	<key>sh_r_va-deva</key>
-	<string>sh_r_va-deva.glif</string>
 	<key>sh_ra-deva</key>
 	<string>sh_ra-deva.glif</string>
 	<key>sh_ra_rVocalicMatra-deva</key>
 	<string>sh_ra_rV_ocalicM_atra-deva.glif</string>
+	<key>sh_va-deva</key>
+	<string>sh_va-deva.glif</string>
 	<key>sha-deva</key>
 	<string>sha-deva.glif</string>
 	<key>sha-deva.loclMAR</key>

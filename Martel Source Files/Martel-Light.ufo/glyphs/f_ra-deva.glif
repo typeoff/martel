@@ -2,13 +2,25 @@
 <glyph name="f_ra-deva" format="1">
   <advance width="787"/>
   <outline>
-	<component base="ph_ra-deva"/>
-	<component base="nukta-deva" xOffset="401" yOffset="80"/>
-	<contour>
-	  <point x="399" y="634" type="move" name="top"/>
-	</contour>
-	<contour>
-	  <point x="399" y="0" type="move" name="bottom"/>
-	</contour>
+    <component base="ph_ra-deva"/>
+    <component base="nukta-deva" xOffset="401" yOffset="80"/>
+    <contour>
+      <point x="399" y="634" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>nukta-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

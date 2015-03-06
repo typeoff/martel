@@ -2,10 +2,28 @@
 <glyph name="iiMatra_anusvara-deva.02" format="1">
   <advance width="307"/>
   <outline>
-	<component base="iiMatra-deva.02"/>
-	<component base="anusvara-deva" xOffset="372" yOffset="-1"/>
-	<contour>
-	  <point x="-411" y="650" type="move" name="iimatra"/>
-	</contour>
+    <component base="iiMatra-deva.02"/>
+    <component base="anusvara-deva" xOffset="372" yOffset="-1"/>
+    <contour>
+      <point x="-411" y="650" type="move" name="iimatra"/>
+    </contour>
+    <contour>
+      <point x="252" y="650" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>anusvara-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

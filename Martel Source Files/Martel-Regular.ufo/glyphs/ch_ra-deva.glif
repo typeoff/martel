@@ -2,20 +2,20 @@
 <glyph name="ch_ra-deva" format="1">
   <advance width="815"/>
   <outline>
-	<contour>
-	  <point x="366" y="-93" type="line"/>
-	  <point x="510" y="-238" type="line"/>
-	  <point x="558" y="-202" type="line"/>
-	  <point x="363" y="-13" type="line"/>
-	  <point x="114" y="-171" type="line"/>
-	  <point x="185" y="-235" type="line"/>
-	</contour>
-	<component base="cha-deva"/>
-	<contour>
-	  <point x="557" y="650" type="move" name="top"/>
-	</contour>
-	<contour>
-	  <point x="464" y="-192" type="move" name="bottom"/>
-	</contour>
+    <contour>
+      <point x="366" y="-93" type="line"/>
+      <point x="510" y="-238" type="line"/>
+      <point x="558" y="-202" type="line"/>
+      <point x="363" y="-13" type="line"/>
+      <point x="114" y="-171" type="line"/>
+      <point x="185" y="-235" type="line"/>
+    </contour>
+    <component base="cha-deva"/>
+    <contour>
+      <point x="357" y="-288" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="464" y="-192" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

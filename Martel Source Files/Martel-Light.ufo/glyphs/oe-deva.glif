@@ -3,7 +3,7 @@
   <advance width="738"/>
   <unicode hex="0973"/>
   <outline>
-	<component base="a-deva"/>
-	<component base="uni093A" xOffset="738"/>
+    <component base="a-deva"/>
+    <component base="uni093A" xOffset="738"/>
   </outline>
 </glyph>

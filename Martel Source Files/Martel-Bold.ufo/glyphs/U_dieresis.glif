@@ -3,7 +3,7 @@
   <advance width="787"/>
   <unicode hex="00DC"/>
   <outline>
-	<component base="U"/>
-	<component base="dieresis.cap" xOffset="163"/>
+    <component base="U"/>
+    <component base="dieresis.cap" xOffset="163"/>
   </outline>
 </glyph>
