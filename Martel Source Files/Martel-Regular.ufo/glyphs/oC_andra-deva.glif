@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oCandra-deva" format="1">
+  <advance width="1150"/>
+  <unicode hex="0911"/>
+  <outline>
+    <component base="aa-deva"/>
+    <component base="eCandraMatra-deva" xOffset="1136"/>
+    <contour>
+      <point x="68" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="998" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="998" y="781" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>eCandraMatra-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
