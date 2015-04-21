@@ -39,7 +39,7 @@ code = "iMatra_anusvara-deva iMatra_anusvara-deva.0 iMatra_anusvara-deva.05 iMat
 name = DevaIMatraAnusvaras;
 }
 );
-copyright = "Copyright (c) 2015 Dan Reynolds. ";
+copyright = "Copyright (c) 2015 Dan Reynolds. Copyright (c) 2010-2015, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather'";
 customParameters = (
 {
 name = license;
@@ -59,7 +59,7 @@ value = (
 );
 }
 );
-date = "2015-03-06 05:16:46 +0000";
+date = "2015-04-21 07:12:48 +0000";
 designer = "Dan Reynolds";
 designerURL = "https://github.com/typeoff/martel";
 familyName = "Martel";
@@ -183,7 +183,7 @@ value = "1125";
 },
 {
 name = typoDescender;
-value = "-562";
+value = "-571";
 },
 {
 name = typoLineGap;
@@ -195,7 +195,7 @@ value = "1125";
 },
 {
 name = winDescent;
-value = "562";
+value = "571";
 },
 {
 name = vheaVertAscender;
@@ -203,7 +203,7 @@ value = "1125";
 },
 {
 name = vheaVertDescender;
-value = "-562";
+value = "-571";
 },
 {
 name = vheaVertLineGap;
@@ -253,7 +253,7 @@ value = "1125";
 },
 {
 name = typoDescender;
-value = "-562";
+value = "-571";
 },
 {
 name = typoLineGap;
@@ -265,7 +265,7 @@ value = "1125";
 },
 {
 name = winDescent;
-value = "562";
+value = "571";
 },
 {
 name = vheaVertAscender;
@@ -273,7 +273,7 @@ value = "1125";
 },
 {
 name = vheaVertDescender;
-value = "-562";
+value = "-571";
 },
 {
 name = vheaVertLineGap;
@@ -322,7 +322,7 @@ value = "1125";
 },
 {
 name = typoDescender;
-value = "-562";
+value = "-571";
 },
 {
 name = typoLineGap;
@@ -334,7 +334,7 @@ value = "1125";
 },
 {
 name = winDescent;
-value = "562";
+value = "571";
 },
 {
 name = vheaVertAscender;
@@ -342,7 +342,7 @@ value = "1125";
 },
 {
 name = vheaVertDescender;
-value = "-562";
+value = "-571";
 },
 {
 name = vheaVertLineGap;
@@ -57241,12 +57241,12 @@ position = "{555, 669}";
 background = {
 anchors = (
 {
-name = top;
-position = "{552, 650}";
-},
-{
 name = bottom;
 position = "{552, 0}";
+},
+{
+name = top;
+position = "{552, 650}";
 }
 );
 paths = (
@@ -60123,12 +60123,12 @@ position = "{678, 669}";
 background = {
 anchors = (
 {
-name = top;
-position = "{638, 650}";
-},
-{
 name = bottom;
 position = "{638, 0}";
+},
+{
+name = top;
+position = "{638, 650}";
 }
 );
 paths = (
@@ -62060,12 +62060,12 @@ position = "{414, 634}";
 background = {
 anchors = (
 {
-name = top;
-position = "{415, 650}";
-},
-{
 name = bottom;
 position = "{415, 0}";
+},
+{
+name = top;
+position = "{415, 650}";
 }
 );
 paths = (
@@ -65880,12 +65880,12 @@ position = "{483, 634}";
 background = {
 anchors = (
 {
-name = top;
-position = "{487, 634}";
-},
-{
 name = bottom;
 position = "{487, 0}";
+},
+{
+name = top;
+position = "{487, 634}";
 }
 );
 paths = (
@@ -68324,12 +68324,12 @@ layers = (
 background = {
 anchors = (
 {
-name = top;
-position = "{391, 650}";
-},
-{
 name = bottom;
 position = "{339, 0}";
+},
+{
+name = top;
+position = "{391, 650}";
 }
 );
 paths = (
@@ -73080,12 +73080,12 @@ layers = (
 background = {
 anchors = (
 {
-name = top;
-position = "{428, 650}";
-},
-{
 name = bottom;
 position = "{428, 0}";
+},
+{
+name = top;
+position = "{428, 650}";
 }
 );
 paths = (
@@ -94048,12 +94048,12 @@ position = "{358, 650}";
 background = {
 anchors = (
 {
-name = top;
-position = "{358, 650}";
-},
-{
 name = bottom;
 position = "{358, -305}";
+},
+{
+name = top;
+position = "{358, 650}";
 }
 );
 paths = (
@@ -94662,12 +94662,12 @@ position = "{1058, 650}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1058, 650}";
-},
-{
 name = bottom;
 position = "{1058, 0}";
+},
+{
+name = top;
+position = "{1058, 650}";
 }
 );
 paths = (
@@ -103825,12 +103825,12 @@ position = "{1137, 650}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1137, 650}";
-},
-{
 name = bottom;
 position = "{1137, 0}";
+},
+{
+name = top;
+position = "{1137, 650}";
 }
 );
 paths = (
@@ -106801,12 +106801,12 @@ position = "{559, 669}";
 background = {
 anchors = (
 {
-name = top;
-position = "{528, 650}";
-},
-{
 name = bottom;
 position = "{528, 0}";
+},
+{
+name = top;
+position = "{528, 650}";
 }
 );
 paths = (
@@ -116313,12 +116313,12 @@ position = "{759, 634}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{238, 0}";
-},
-{
 name = bottom;
 position = "{759, 0}";
+},
+{
+name = nukta;
+position = "{238, 0}";
 },
 {
 name = top;
@@ -116545,12 +116545,12 @@ position = "{806, 650}";
 background = {
 anchors = (
 {
-name = top;
-position = "{806, 650}";
-},
-{
 name = bottom;
 position = "{806, 0}";
+},
+{
+name = top;
+position = "{806, 650}";
 }
 );
 paths = (
@@ -171929,5 +171929,5 @@ OV = 50;
 };
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
